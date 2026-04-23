@@ -1,0 +1,470 @@
+// QQQ Calendar Data - Generated 2026-04-22 18:07:31
+// This file is loaded via <script src> tag and works on both file:// and http://
+window.QQQ_CALENDAR = {
+    ticker: "QQQ",
+    generated: "2026-04-22T18:07:31",
+    entries: [
+    {
+        "date": "2026-01-02",
+        "displayLabel": "1/2 EOD",
+        "path": "DAILY/202601/QQQ_20260102_2048.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-05",
+        "displayLabel": "1/5 EOD",
+        "path": "DAILY/202601/QQQ_20260105_2120.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-06",
+        "displayLabel": "1/6 EOD",
+        "path": "DAILY/202601/QQQ_20260106_0111.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-07",
+        "displayLabel": "1/7 EOD",
+        "path": "DAILY/202601/QQQ_20260107_2112.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-08",
+        "displayLabel": "1/8 EOD",
+        "path": "DAILY/202601/QQQ_20260108_2120.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-09",
+        "displayLabel": "1/9 EOD",
+        "path": "DAILY/202601/QQQ_20260109_2108.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-12",
+        "displayLabel": "1/12 EOD",
+        "path": "DAILY/202601/QQQ_20260112_0152.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-13",
+        "displayLabel": "1/13 EOD",
+        "path": "DAILY/202601/QQQ_20260113_2207.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-14",
+        "displayLabel": "1/14 EOD",
+        "path": "DAILY/202601/QQQ_20260114_0046.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-15",
+        "displayLabel": "1/15 EOD",
+        "path": "DAILY/202601/QQQ_20260115_2123.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-16",
+        "displayLabel": "1/16 EOD",
+        "path": "DAILY/202601/QQQ_20260116_2059.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-20",
+        "displayLabel": "1/20 EOD",
+        "path": "DAILY/202601/QQQ_20260120_2102.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-21",
+        "displayLabel": "1/21 EOD",
+        "path": "DAILY/202601/QQQ_20260121_2108.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-22",
+        "displayLabel": "1/22 EOD",
+        "path": "DAILY/202601/QQQ_20260122_0227.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-23",
+        "displayLabel": "1/23 EOD",
+        "path": "DAILY/202601/QQQ_20260123_2110.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-26",
+        "displayLabel": "1/26 EOD",
+        "path": "DAILY/202601/QQQ_20260126_2206.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-27",
+        "displayLabel": "1/27 EOD",
+        "path": "DAILY/202601/QQQ_20260127_2152.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-28",
+        "displayLabel": "1/28 EOD",
+        "path": "DAILY/202601/QQQ_20260128_2132.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-29",
+        "displayLabel": "1/29 EOD",
+        "path": "DAILY/202601/QQQ_20260129_1812.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-01-30",
+        "displayLabel": "1/30 EOD",
+        "path": "DAILY/202601/QQQ_20260130_1812.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-02",
+        "displayLabel": "2/2 EOD",
+        "path": "DAILY/202602/QQQ_20260202_1811.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-03",
+        "displayLabel": "2/3 EOD",
+        "path": "DAILY/202602/QQQ_20260203_1813.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-04",
+        "displayLabel": "2/4 EOD",
+        "path": "DAILY/202602/QQQ_20260204_1813.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-05",
+        "displayLabel": "2/5 EOD",
+        "path": "DAILY/202602/QQQ_20260205_1813.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-06",
+        "displayLabel": "2/6 EOD",
+        "path": "DAILY/202602/QQQ_20260206_1120.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-09",
+        "displayLabel": "2/9 EOD",
+        "path": "DAILY/202602/QQQ_20260209_2159.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-10",
+        "displayLabel": "2/10 EOD",
+        "path": "DAILY/202602/QQQ_20260210_1813.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-11",
+        "displayLabel": "2/11 EOD",
+        "path": "DAILY/202602/QQQ_20260211_1815.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-12",
+        "displayLabel": "2/12 EOD",
+        "path": "DAILY/202602/QQQ_20260212_1817.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-13",
+        "displayLabel": "2/13 EOD",
+        "path": "DAILY/202602/QQQ_20260213_0038.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-17",
+        "displayLabel": "2/17 EOD",
+        "path": "DAILY/202602/QQQ_20260217_1816.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-18",
+        "displayLabel": "2/18 EOD",
+        "path": "DAILY/202602/QQQ_20260218_1816.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-19",
+        "displayLabel": "2/19 EOD",
+        "path": "DAILY/202602/QQQ_20260219_1816.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-20",
+        "displayLabel": "2/20 EOD",
+        "path": "DAILY/202602/QQQ_20260220_1816.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-23",
+        "displayLabel": "2/23 EOD",
+        "path": "DAILY/202602/QQQ_20260223_1816.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-24",
+        "displayLabel": "2/24 EOD",
+        "path": "DAILY/202602/QQQ_20260224_1815.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-25",
+        "displayLabel": "2/25 EOD",
+        "path": "DAILY/202602/QQQ_20260225_2005.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-26",
+        "displayLabel": "2/26 EOD",
+        "path": "DAILY/202602/QQQ_20260226_1817.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-02-27",
+        "displayLabel": "2/27 EOD",
+        "path": "DAILY/202602/QQQ_20260227_1817.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-02",
+        "displayLabel": "3/2 EOD",
+        "path": "DAILY/202603/QQQ_20260302_1818.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-03",
+        "displayLabel": "3/3 EOD",
+        "path": "DAILY/202603/QQQ_20260303_1818.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-04",
+        "displayLabel": "3/4 EOD",
+        "path": "DAILY/202603/QQQ_20260304_1820.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-05",
+        "displayLabel": "3/5 EOD",
+        "path": "DAILY/202603/QQQ_20260305_1821.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-06",
+        "displayLabel": "3/6 EOD",
+        "path": "DAILY/202603/QQQ_20260306_1819.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-09",
+        "displayLabel": "3/9 16:20",
+        "path": "INTRADAY/20260309/QQQ_20260309_1620.html",
+        "type": "INTRADAY"
+    },
+    {
+        "date": "2026-03-10",
+        "displayLabel": "3/10 EOD",
+        "path": "DAILY/202603/QQQ_20260310_1819.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-11",
+        "displayLabel": "3/11 EOD",
+        "path": "DAILY/202603/QQQ_20260311_1818.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-12",
+        "displayLabel": "3/12 EOD",
+        "path": "DAILY/202603/QQQ_20260312_1822.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-13",
+        "displayLabel": "3/13 EOD",
+        "path": "DAILY/202603/QQQ_20260313_1820.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-16",
+        "displayLabel": "3/16 EOD",
+        "path": "DAILY/202603/QQQ_20260316_1819.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-17",
+        "displayLabel": "3/17 EOD",
+        "path": "DAILY/202603/QQQ_20260317_1817.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-18",
+        "displayLabel": "3/18 EOD",
+        "path": "DAILY/202603/QQQ_20260318_1818.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-19",
+        "displayLabel": "3/19 16:20",
+        "path": "INTRADAY/20260319/QQQ_20260319_1620.html",
+        "type": "INTRADAY"
+    },
+    {
+        "date": "2026-03-20",
+        "displayLabel": "3/20 EOD",
+        "path": "DAILY/202603/QQQ_20260320_1818.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-23",
+        "displayLabel": "3/23 EOD",
+        "path": "DAILY/202603/QQQ_20260323_2349.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-24",
+        "displayLabel": "3/24 EOD",
+        "path": "DAILY/202603/QQQ_20260324_1826.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-25",
+        "displayLabel": "3/25 EOD",
+        "path": "DAILY/202603/QQQ_20260325_1832.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-26",
+        "displayLabel": "3/26 EOD",
+        "path": "DAILY/202603/QQQ_20260326_1829.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-27",
+        "displayLabel": "3/27 EOD",
+        "path": "DAILY/202603/QQQ_20260327_2004.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-30",
+        "displayLabel": "3/30 EOD",
+        "path": "DAILY/202603/QQQ_20260330_1826.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-03-31",
+        "displayLabel": "3/31 EOD",
+        "path": "DAILY/202603/QQQ_20260331_1827.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-01",
+        "displayLabel": "4/1 EOD",
+        "path": "DAILY/202604/QQQ_20260401_2355.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-02",
+        "displayLabel": "4/2 EOD",
+        "path": "DAILY/202604/QQQ_20260402_1553.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-03",
+        "displayLabel": "4/3 EOD",
+        "path": "DAILY/202604/QQQ_20260403_2334.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-06",
+        "displayLabel": "4/6 EOD",
+        "path": "DAILY/202604/QQQ_20260406_1807.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-07",
+        "displayLabel": "4/7 EOD",
+        "path": "DAILY/202604/QQQ_20260407_1913.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-08",
+        "displayLabel": "4/8 EOD",
+        "path": "DAILY/202604/QQQ_20260408_1809.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-09",
+        "displayLabel": "4/9 EOD",
+        "path": "DAILY/202604/QQQ_20260409_1808.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-10",
+        "displayLabel": "4/10 EOD",
+        "path": "DAILY/202604/QQQ_20260410_1803.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-13",
+        "displayLabel": "4/13 EOD",
+        "path": "DAILY/202604/QQQ_20260413_1803.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-14",
+        "displayLabel": "4/14 EOD",
+        "path": "DAILY/202604/QQQ_20260414_1803.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-15",
+        "displayLabel": "4/15 EOD",
+        "path": "DAILY/202604/QQQ_20260415_1804.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-16",
+        "displayLabel": "4/16 EOD",
+        "path": "DAILY/202604/QQQ_20260416_1803.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-17",
+        "displayLabel": "4/17 EOD",
+        "path": "DAILY/202604/QQQ_20260417_1803.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-20",
+        "displayLabel": "4/20 EOD",
+        "path": "DAILY/202604/QQQ_20260420_1804.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-21",
+        "displayLabel": "4/21 EOD",
+        "path": "DAILY/202604/QQQ_20260421_1809.html",
+        "type": "DAILY"
+    },
+    {
+        "date": "2026-04-22",
+        "displayLabel": "4/22 EOD",
+        "path": "DAILY/202604/QQQ_20260422_1807.html",
+        "type": "DAILY"
+    }
+]
+};

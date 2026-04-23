@@ -1,0 +1,3012 @@
+{
+  "strategy": "Earnings DTE Comparison",
+  "description": "On Friday before earnings week, compare 1w / 2w / monthly DTE choices",
+  "position_size": 500,
+  "otm_pct": 0.02,
+  "tickers": [
+    "JPM",
+    "BAC",
+    "C",
+    "WFC",
+    "MS",
+    "BLK",
+    "GS",
+    "ASML",
+    "PGR",
+    "PNC"
+  ],
+  "generated": "2026-04-10 13:31:30",
+  "scenarios": [
+    {
+      "ticker": "JPM",
+      "earnings_date": "2026-01-13",
+      "earnings_time": "BMO",
+      "earnings_move_pct": -4.19,
+      "entry_date": "2026-01-09",
+      "exit_date": "2026-01-16",
+      "entry_close": 329.19,
+      "exit_close": 312.47,
+      "stock_move_pct": -5.08,
+      "buckets": [
+        {
+          "label": "Weekly 1w",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 330.0,
+                  "entry_mark": 6.03,
+                  "delta": 0.496
+                }
+              ],
+              "debit_per_share": 6.03,
+              "cost_per_contract": 603.0,
+              "contracts": 1,
+              "total_debit": 603.0,
+              "leg_exit_values": [
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -6.03,
+              "total_pnl": -603.0,
+              "pnl_pct": -100.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 330.0,
+                  "entry_mark": 6.03,
+                  "delta": 0.496
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 330.0,
+                  "entry_mark": 6.38,
+                  "delta": -0.506
+                }
+              ],
+              "debit_per_share": 12.41,
+              "cost_per_contract": 1241.0,
+              "contracts": 1,
+              "total_debit": 1241.0,
+              "leg_exit_values": [
+                0.0,
+                17.53
+              ],
+              "exit_per_share": 17.53,
+              "pnl_per_share": 5.12,
+              "total_pnl": 512.0,
+              "pnl_pct": 41.3
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 337.5,
+                  "entry_mark": 2.82,
+                  "delta": 0.304
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 322.5,
+                  "entry_mark": 3.45,
+                  "delta": -0.323
+                }
+              ],
+              "debit_per_share": 6.27,
+              "cost_per_contract": 627.0,
+              "contracts": 1,
+              "total_debit": 627.0,
+              "leg_exit_values": [
+                0.0,
+                10.03
+              ],
+              "exit_per_share": 10.03,
+              "pnl_per_share": 3.76,
+              "total_pnl": 376.0,
+              "pnl_pct": 60.0
+            }
+          ]
+        },
+        {
+          "label": "Weekly 2w",
+          "expiry_date": "2026-01-23",
+          "entry_dte": 14,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 330.0,
+                  "entry_mark": 7.03,
+                  "delta": 0.499
+                }
+              ],
+              "debit_per_share": 7.03,
+              "cost_per_contract": 703.0,
+              "contracts": 1,
+              "total_debit": 703.0,
+              "leg_exit_values": [
+                0.15
+              ],
+              "exit_per_share": 0.15,
+              "pnl_per_share": -6.88,
+              "total_pnl": -688.0,
+              "pnl_pct": -97.9
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 330.0,
+                  "entry_mark": 7.03,
+                  "delta": 0.499
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 330.0,
+                  "entry_mark": 7.15,
+                  "delta": -0.502
+                }
+              ],
+              "debit_per_share": 14.18,
+              "cost_per_contract": 1418.0,
+              "contracts": 1,
+              "total_debit": 1418.0,
+              "leg_exit_values": [
+                0.15,
+                17.8
+              ],
+              "exit_per_share": 17.95,
+              "pnl_per_share": 3.77,
+              "total_pnl": 377.0,
+              "pnl_pct": 26.6
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 337.5,
+                  "entry_mark": 3.75,
+                  "delta": 0.334
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 322.5,
+                  "entry_mark": 4.1,
+                  "delta": -0.337
+                }
+              ],
+              "debit_per_share": 7.85,
+              "cost_per_contract": 785.0,
+              "contracts": 1,
+              "total_debit": 785.0,
+              "leg_exit_values": [
+                0.04,
+                10.45
+              ],
+              "exit_per_share": 10.49,
+              "pnl_per_share": 2.64,
+              "total_pnl": 264.0,
+              "pnl_pct": 33.6
+            }
+          ]
+        },
+        {
+          "label": "Monthly",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 330.0,
+                  "entry_mark": 6.03,
+                  "delta": 0.496
+                }
+              ],
+              "debit_per_share": 6.03,
+              "cost_per_contract": 603.0,
+              "contracts": 1,
+              "total_debit": 603.0,
+              "leg_exit_values": [
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -6.03,
+              "total_pnl": -603.0,
+              "pnl_pct": -100.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 330.0,
+                  "entry_mark": 6.03,
+                  "delta": 0.496
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 330.0,
+                  "entry_mark": 6.38,
+                  "delta": -0.506
+                }
+              ],
+              "debit_per_share": 12.41,
+              "cost_per_contract": 1241.0,
+              "contracts": 1,
+              "total_debit": 1241.0,
+              "leg_exit_values": [
+                0.0,
+                17.53
+              ],
+              "exit_per_share": 17.53,
+              "pnl_per_share": 5.12,
+              "total_pnl": 512.0,
+              "pnl_pct": 41.3
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 337.5,
+                  "entry_mark": 2.82,
+                  "delta": 0.304
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 322.5,
+                  "entry_mark": 3.45,
+                  "delta": -0.323
+                }
+              ],
+              "debit_per_share": 6.27,
+              "cost_per_contract": 627.0,
+              "contracts": 1,
+              "total_debit": 627.0,
+              "leg_exit_values": [
+                0.0,
+                10.03
+              ],
+              "exit_per_share": 10.03,
+              "pnl_per_share": 3.76,
+              "total_pnl": 376.0,
+              "pnl_pct": 60.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "earnings_date": "2026-01-14",
+      "earnings_time": "BMO",
+      "earnings_move_pct": -3.78,
+      "entry_date": "2026-01-09",
+      "exit_date": "2026-01-16",
+      "entry_close": 55.85,
+      "exit_close": 52.97,
+      "stock_move_pct": -5.16,
+      "buckets": [
+        {
+          "label": "Weekly 1w",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 56.0,
+                  "entry_mark": 1.05,
+                  "delta": 0.487
+                }
+              ],
+              "debit_per_share": 1.05,
+              "cost_per_contract": 105.0,
+              "contracts": 4,
+              "total_debit": 420.0,
+              "leg_exit_values": [
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -1.05,
+              "total_pnl": -420.0,
+              "pnl_pct": -100.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 56.0,
+                  "entry_mark": 1.05,
+                  "delta": 0.487
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 56.0,
+                  "entry_mark": 1.18,
+                  "delta": -0.513
+                }
+              ],
+              "debit_per_share": 2.23,
+              "cost_per_contract": 223.0,
+              "contracts": 2,
+              "total_debit": 446.0,
+              "leg_exit_values": [
+                0.0,
+                3.03
+              ],
+              "exit_per_share": 3.03,
+              "pnl_per_share": 0.8,
+              "total_pnl": 160.0,
+              "pnl_pct": 35.9
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 57.0,
+                  "entry_mark": 0.63,
+                  "delta": 0.347
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 54.5,
+                  "entry_mark": 0.58,
+                  "delta": -0.309
+                }
+              ],
+              "debit_per_share": 1.21,
+              "cost_per_contract": 121.0,
+              "contracts": 4,
+              "total_debit": 484.0,
+              "leg_exit_values": [
+                0.0,
+                1.53
+              ],
+              "exit_per_share": 1.53,
+              "pnl_per_share": 0.32,
+              "total_pnl": 128.0,
+              "pnl_pct": 26.4
+            }
+          ]
+        },
+        {
+          "label": "Weekly 2w",
+          "expiry_date": "2026-01-23",
+          "entry_dte": 14,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 56.0,
+                  "entry_mark": 1.19,
+                  "delta": 0.488
+                }
+              ],
+              "debit_per_share": 1.19,
+              "cost_per_contract": 119.0,
+              "contracts": 4,
+              "total_debit": 476.0,
+              "leg_exit_values": [
+                0.03
+              ],
+              "exit_per_share": 0.03,
+              "pnl_per_share": -1.16,
+              "total_pnl": -464.0,
+              "pnl_pct": -97.5
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 56.0,
+                  "entry_mark": 1.19,
+                  "delta": 0.488
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 56.0,
+                  "entry_mark": 1.31,
+                  "delta": -0.512
+                }
+              ],
+              "debit_per_share": 2.5,
+              "cost_per_contract": 250.0,
+              "contracts": 2,
+              "total_debit": 500.0,
+              "leg_exit_values": [
+                0.03,
+                3.22
+              ],
+              "exit_per_share": 3.25,
+              "pnl_per_share": 0.75,
+              "total_pnl": 150.0,
+              "pnl_pct": 30.0
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 57.0,
+                  "entry_mark": 0.76,
+                  "delta": 0.365
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 54.5,
+                  "entry_mark": 0.69,
+                  "delta": -0.325
+                }
+              ],
+              "debit_per_share": 1.45,
+              "cost_per_contract": 145.0,
+              "contracts": 3,
+              "total_debit": 435.0,
+              "leg_exit_values": [
+                0.02,
+                1.59
+              ],
+              "exit_per_share": 1.61,
+              "pnl_per_share": 0.16,
+              "total_pnl": 48.0,
+              "pnl_pct": 11.0
+            }
+          ]
+        },
+        {
+          "label": "Monthly",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 56.0,
+                  "entry_mark": 1.05,
+                  "delta": 0.487
+                }
+              ],
+              "debit_per_share": 1.05,
+              "cost_per_contract": 105.0,
+              "contracts": 4,
+              "total_debit": 420.0,
+              "leg_exit_values": [
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -1.05,
+              "total_pnl": -420.0,
+              "pnl_pct": -100.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 56.0,
+                  "entry_mark": 1.05,
+                  "delta": 0.487
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 56.0,
+                  "entry_mark": 1.18,
+                  "delta": -0.513
+                }
+              ],
+              "debit_per_share": 2.23,
+              "cost_per_contract": 223.0,
+              "contracts": 2,
+              "total_debit": 446.0,
+              "leg_exit_values": [
+                0.0,
+                3.03
+              ],
+              "exit_per_share": 3.03,
+              "pnl_per_share": 0.8,
+              "total_pnl": 160.0,
+              "pnl_pct": 35.9
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 57.0,
+                  "entry_mark": 0.63,
+                  "delta": 0.347
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 54.5,
+                  "entry_mark": 0.58,
+                  "delta": -0.309
+                }
+              ],
+              "debit_per_share": 1.21,
+              "cost_per_contract": 121.0,
+              "contracts": 4,
+              "total_debit": 484.0,
+              "leg_exit_values": [
+                0.0,
+                1.53
+              ],
+              "exit_per_share": 1.53,
+              "pnl_per_share": 0.32,
+              "total_pnl": 128.0,
+              "pnl_pct": 26.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "C",
+      "earnings_date": "2026-01-14",
+      "earnings_time": "BMO",
+      "earnings_move_pct": -3.34,
+      "entry_date": "2026-01-09",
+      "exit_date": "2026-01-16",
+      "entry_close": 121.32,
+      "exit_close": 118.04,
+      "stock_move_pct": -2.7,
+      "buckets": [
+        {
+          "label": "Weekly 1w",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 121.0,
+                  "entry_mark": 3.01,
+                  "delta": 0.532
+                }
+              ],
+              "debit_per_share": 3.01,
+              "cost_per_contract": 301.0,
+              "contracts": 1,
+              "total_debit": 301.0,
+              "leg_exit_values": [
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -3.01,
+              "total_pnl": -301.0,
+              "pnl_pct": -100.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 121.0,
+                  "entry_mark": 3.01,
+                  "delta": 0.532
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 121.0,
+                  "entry_mark": 2.58,
+                  "delta": -0.468
+                }
+              ],
+              "debit_per_share": 5.59,
+              "cost_per_contract": 559.0,
+              "contracts": 1,
+              "total_debit": 559.0,
+              "leg_exit_values": [
+                0.0,
+                2.96
+              ],
+              "exit_per_share": 2.96,
+              "pnl_per_share": -2.63,
+              "total_pnl": -263.0,
+              "pnl_pct": -47.0
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 124.0,
+                  "entry_mark": 1.67,
+                  "delta": 0.364
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 118.0,
+                  "entry_mark": 1.4,
+                  "delta": -0.303
+                }
+              ],
+              "debit_per_share": 3.07,
+              "cost_per_contract": 307.0,
+              "contracts": 1,
+              "total_debit": 307.0,
+              "leg_exit_values": [
+                0.0,
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -3.07,
+              "total_pnl": -307.0,
+              "pnl_pct": -100.0
+            }
+          ]
+        },
+        {
+          "label": "Weekly 2w",
+          "expiry_date": "2026-01-23",
+          "entry_dte": 14,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 121.0,
+                  "entry_mark": 3.5,
+                  "delta": 0.529
+                }
+              ],
+              "debit_per_share": 3.5,
+              "cost_per_contract": 350.0,
+              "contracts": 1,
+              "total_debit": 350.0,
+              "leg_exit_values": [
+                0.56
+              ],
+              "exit_per_share": 0.56,
+              "pnl_per_share": -2.94,
+              "total_pnl": -294.0,
+              "pnl_pct": -84.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 121.0,
+                  "entry_mark": 3.5,
+                  "delta": 0.529
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 121.0,
+                  "entry_mark": 3.01,
+                  "delta": -0.471
+                }
+              ],
+              "debit_per_share": 6.51,
+              "cost_per_contract": 651.0,
+              "contracts": 1,
+              "total_debit": 651.0,
+              "leg_exit_values": [
+                0.56,
+                3.45
+              ],
+              "exit_per_share": 4.01,
+              "pnl_per_share": -2.5,
+              "total_pnl": -250.0,
+              "pnl_pct": -38.4
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 124.0,
+                  "entry_mark": 2.09,
+                  "delta": 0.384
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 118.0,
+                  "entry_mark": 1.83,
+                  "delta": -0.328
+                }
+              ],
+              "debit_per_share": 3.92,
+              "cost_per_contract": 392.0,
+              "contracts": 1,
+              "total_debit": 392.0,
+              "leg_exit_values": [
+                0.14,
+                1.62
+              ],
+              "exit_per_share": 1.76,
+              "pnl_per_share": -2.16,
+              "total_pnl": -216.0,
+              "pnl_pct": -55.1
+            }
+          ]
+        },
+        {
+          "label": "Monthly",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 121.0,
+                  "entry_mark": 3.01,
+                  "delta": 0.532
+                }
+              ],
+              "debit_per_share": 3.01,
+              "cost_per_contract": 301.0,
+              "contracts": 1,
+              "total_debit": 301.0,
+              "leg_exit_values": [
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -3.01,
+              "total_pnl": -301.0,
+              "pnl_pct": -100.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 121.0,
+                  "entry_mark": 3.01,
+                  "delta": 0.532
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 121.0,
+                  "entry_mark": 2.58,
+                  "delta": -0.468
+                }
+              ],
+              "debit_per_share": 5.59,
+              "cost_per_contract": 559.0,
+              "contracts": 1,
+              "total_debit": 559.0,
+              "leg_exit_values": [
+                0.0,
+                2.96
+              ],
+              "exit_per_share": 2.96,
+              "pnl_per_share": -2.63,
+              "total_pnl": -263.0,
+              "pnl_pct": -47.0
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 124.0,
+                  "entry_mark": 1.67,
+                  "delta": 0.364
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 118.0,
+                  "entry_mark": 1.4,
+                  "delta": -0.303
+                }
+              ],
+              "debit_per_share": 3.07,
+              "cost_per_contract": 307.0,
+              "contracts": 1,
+              "total_debit": 307.0,
+              "leg_exit_values": [
+                0.0,
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -3.07,
+              "total_pnl": -307.0,
+              "pnl_pct": -100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "earnings_date": "2026-01-14",
+      "earnings_time": "BMO",
+      "earnings_move_pct": -4.61,
+      "entry_date": "2026-01-09",
+      "exit_date": "2026-01-16",
+      "entry_close": 95.95,
+      "exit_close": 88.38,
+      "stock_move_pct": -7.89,
+      "buckets": [
+        {
+          "label": "Weekly 1w",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 96.0,
+                  "entry_mark": 2.37,
+                  "delta": 0.511
+                }
+              ],
+              "debit_per_share": 2.37,
+              "cost_per_contract": 237.0,
+              "contracts": 2,
+              "total_debit": 474.0,
+              "leg_exit_values": [
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -2.37,
+              "total_pnl": -474.0,
+              "pnl_pct": -100.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 96.0,
+                  "entry_mark": 2.37,
+                  "delta": 0.511
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 96.0,
+                  "entry_mark": 2.33,
+                  "delta": -0.49
+                }
+              ],
+              "debit_per_share": 4.7,
+              "cost_per_contract": 470.0,
+              "contracts": 1,
+              "total_debit": 470.0,
+              "leg_exit_values": [
+                0.0,
+                7.62
+              ],
+              "exit_per_share": 7.62,
+              "pnl_per_share": 2.92,
+              "total_pnl": 292.0,
+              "pnl_pct": 62.1
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 98.0,
+                  "entry_mark": 1.46,
+                  "delta": 0.376
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 94.0,
+                  "entry_mark": 1.49,
+                  "delta": -0.357
+                }
+              ],
+              "debit_per_share": 2.95,
+              "cost_per_contract": 295.0,
+              "contracts": 1,
+              "total_debit": 295.0,
+              "leg_exit_values": [
+                0.0,
+                5.62
+              ],
+              "exit_per_share": 5.62,
+              "pnl_per_share": 2.67,
+              "total_pnl": 267.0,
+              "pnl_pct": 90.5
+            }
+          ]
+        },
+        {
+          "label": "Weekly 2w",
+          "expiry_date": "2026-01-23",
+          "entry_dte": 14,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 96.0,
+                  "entry_mark": 2.66,
+                  "delta": 0.512
+                }
+              ],
+              "debit_per_share": 2.66,
+              "cost_per_contract": 266.0,
+              "contracts": 1,
+              "total_debit": 266.0,
+              "leg_exit_values": [
+                0.03
+              ],
+              "exit_per_share": 0.03,
+              "pnl_per_share": -2.63,
+              "total_pnl": -263.0,
+              "pnl_pct": -98.9
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 96.0,
+                  "entry_mark": 2.66,
+                  "delta": 0.512
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 96.0,
+                  "entry_mark": 2.55,
+                  "delta": -0.489
+                }
+              ],
+              "debit_per_share": 5.21,
+              "cost_per_contract": 521.0,
+              "contracts": 1,
+              "total_debit": 521.0,
+              "leg_exit_values": [
+                0.03,
+                7.43
+              ],
+              "exit_per_share": 7.46,
+              "pnl_per_share": 2.25,
+              "total_pnl": 225.0,
+              "pnl_pct": 43.2
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 98.0,
+                  "entry_mark": 1.68,
+                  "delta": 0.389
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 94.0,
+                  "entry_mark": 1.73,
+                  "delta": -0.368
+                }
+              ],
+              "debit_per_share": 3.41,
+              "cost_per_contract": 341.0,
+              "contracts": 1,
+              "total_debit": 341.0,
+              "leg_exit_values": [
+                0.12,
+                5.1
+              ],
+              "exit_per_share": 5.22,
+              "pnl_per_share": 1.81,
+              "total_pnl": 181.0,
+              "pnl_pct": 53.1
+            }
+          ]
+        },
+        {
+          "label": "Monthly",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 96.0,
+                  "entry_mark": 2.37,
+                  "delta": 0.511
+                }
+              ],
+              "debit_per_share": 2.37,
+              "cost_per_contract": 237.0,
+              "contracts": 2,
+              "total_debit": 474.0,
+              "leg_exit_values": [
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -2.37,
+              "total_pnl": -474.0,
+              "pnl_pct": -100.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 96.0,
+                  "entry_mark": 2.37,
+                  "delta": 0.511
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 96.0,
+                  "entry_mark": 2.33,
+                  "delta": -0.49
+                }
+              ],
+              "debit_per_share": 4.7,
+              "cost_per_contract": 470.0,
+              "contracts": 1,
+              "total_debit": 470.0,
+              "leg_exit_values": [
+                0.0,
+                7.62
+              ],
+              "exit_per_share": 7.62,
+              "pnl_per_share": 2.92,
+              "total_pnl": 292.0,
+              "pnl_pct": 62.1
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 98.0,
+                  "entry_mark": 1.46,
+                  "delta": 0.376
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 94.0,
+                  "entry_mark": 1.49,
+                  "delta": -0.357
+                }
+              ],
+              "debit_per_share": 2.95,
+              "cost_per_contract": 295.0,
+              "contracts": 1,
+              "total_debit": 295.0,
+              "leg_exit_values": [
+                0.0,
+                5.62
+              ],
+              "exit_per_share": 5.62,
+              "pnl_per_share": 2.67,
+              "total_pnl": 267.0,
+              "pnl_pct": 90.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "MS",
+      "earnings_date": "2026-01-15",
+      "earnings_time": "BMO",
+      "earnings_move_pct": 5.78,
+      "entry_date": "2026-01-09",
+      "exit_date": "2026-01-16",
+      "entry_close": 186.32,
+      "exit_close": 189.09,
+      "stock_move_pct": 1.49,
+      "buckets": [
+        {
+          "label": "Weekly 1w",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 187.5,
+                  "entry_mark": 3.55,
+                  "delta": 0.471
+                }
+              ],
+              "debit_per_share": 3.55,
+              "cost_per_contract": 355.0,
+              "contracts": 1,
+              "total_debit": 355.0,
+              "leg_exit_values": [
+                1.59
+              ],
+              "exit_per_share": 1.59,
+              "pnl_per_share": -1.96,
+              "total_pnl": -196.0,
+              "pnl_pct": -55.2
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 187.5,
+                  "entry_mark": 3.55,
+                  "delta": 0.471
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 187.5,
+                  "entry_mark": 4.45,
+                  "delta": -0.531
+                }
+              ],
+              "debit_per_share": 8.0,
+              "cost_per_contract": 800.0,
+              "contracts": 1,
+              "total_debit": 800.0,
+              "leg_exit_values": [
+                1.59,
+                0.0
+              ],
+              "exit_per_share": 1.59,
+              "pnl_per_share": -6.41,
+              "total_pnl": -641.0,
+              "pnl_pct": -80.1
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 192.5,
+                  "entry_mark": 1.62,
+                  "delta": 0.279
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 182.5,
+                  "entry_mark": 2.31,
+                  "delta": -0.336
+                }
+              ],
+              "debit_per_share": 3.93,
+              "cost_per_contract": 393.0,
+              "contracts": 1,
+              "total_debit": 393.0,
+              "leg_exit_values": [
+                0.0,
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -3.93,
+              "total_pnl": -393.0,
+              "pnl_pct": -100.0
+            }
+          ]
+        },
+        {
+          "label": "Weekly 2w",
+          "expiry_date": "2026-01-23",
+          "entry_dte": 14,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 187.5,
+                  "entry_mark": 4.2,
+                  "delta": 0.481
+                }
+              ],
+              "debit_per_share": 4.2,
+              "cost_per_contract": 420.0,
+              "contracts": 1,
+              "total_debit": 420.0,
+              "leg_exit_values": [
+                3.3
+              ],
+              "exit_per_share": 3.3,
+              "pnl_per_share": -0.9,
+              "total_pnl": -90.0,
+              "pnl_pct": -21.4
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 187.5,
+                  "entry_mark": 4.2,
+                  "delta": 0.481
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 187.5,
+                  "entry_mark": 4.9,
+                  "delta": -0.522
+                }
+              ],
+              "debit_per_share": 9.1,
+              "cost_per_contract": 910.0,
+              "contracts": 1,
+              "total_debit": 910.0,
+              "leg_exit_values": [
+                3.3,
+                1.55
+              ],
+              "exit_per_share": 4.85,
+              "pnl_per_share": -4.25,
+              "total_pnl": -425.0,
+              "pnl_pct": -46.7
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 192.5,
+                  "entry_mark": 2.11,
+                  "delta": 0.308
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 182.5,
+                  "entry_mark": 2.86,
+                  "delta": -0.352
+                }
+              ],
+              "debit_per_share": 4.97,
+              "cost_per_contract": 497.0,
+              "contracts": 1,
+              "total_debit": 497.0,
+              "leg_exit_values": [
+                1.02,
+                0.43
+              ],
+              "exit_per_share": 1.45,
+              "pnl_per_share": -3.52,
+              "total_pnl": -352.0,
+              "pnl_pct": -70.8
+            }
+          ]
+        },
+        {
+          "label": "Monthly",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 187.5,
+                  "entry_mark": 3.55,
+                  "delta": 0.471
+                }
+              ],
+              "debit_per_share": 3.55,
+              "cost_per_contract": 355.0,
+              "contracts": 1,
+              "total_debit": 355.0,
+              "leg_exit_values": [
+                1.59
+              ],
+              "exit_per_share": 1.59,
+              "pnl_per_share": -1.96,
+              "total_pnl": -196.0,
+              "pnl_pct": -55.2
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 187.5,
+                  "entry_mark": 3.55,
+                  "delta": 0.471
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 187.5,
+                  "entry_mark": 4.45,
+                  "delta": -0.531
+                }
+              ],
+              "debit_per_share": 8.0,
+              "cost_per_contract": 800.0,
+              "contracts": 1,
+              "total_debit": 800.0,
+              "leg_exit_values": [
+                1.59,
+                0.0
+              ],
+              "exit_per_share": 1.59,
+              "pnl_per_share": -6.41,
+              "total_pnl": -641.0,
+              "pnl_pct": -80.1
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 192.5,
+                  "entry_mark": 1.62,
+                  "delta": 0.279
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 182.5,
+                  "entry_mark": 2.31,
+                  "delta": -0.336
+                }
+              ],
+              "debit_per_share": 3.93,
+              "cost_per_contract": 393.0,
+              "contracts": 1,
+              "total_debit": 393.0,
+              "leg_exit_values": [
+                0.0,
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -3.93,
+              "total_pnl": -393.0,
+              "pnl_pct": -100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "BLK",
+      "earnings_date": "2026-01-15",
+      "earnings_time": "BMO",
+      "earnings_move_pct": 5.93,
+      "entry_date": "2026-01-09",
+      "exit_date": "2026-01-16",
+      "entry_close": 1085.1,
+      "exit_close": 1163.17,
+      "stock_move_pct": 7.19,
+      "buckets": [
+        {
+          "label": "Weekly 1w",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1085.0,
+                  "entry_mark": 24.35,
+                  "delta": 0.532
+                }
+              ],
+              "debit_per_share": 24.35,
+              "cost_per_contract": 2435.0,
+              "contracts": 1,
+              "total_debit": 2435.0,
+              "leg_exit_values": [
+                78.17
+              ],
+              "exit_per_share": 78.17,
+              "pnl_per_share": 53.82,
+              "total_pnl": 5382.0,
+              "pnl_pct": 221.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1085.0,
+                  "entry_mark": 24.35,
+                  "delta": 0.532
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1085.0,
+                  "entry_mark": 20.8,
+                  "delta": -0.473
+                }
+              ],
+              "debit_per_share": 45.15,
+              "cost_per_contract": 4515.0,
+              "contracts": 1,
+              "total_debit": 4515.0,
+              "leg_exit_values": [
+                78.17,
+                0.0
+              ],
+              "exit_per_share": 78.17,
+              "pnl_per_share": 33.02,
+              "total_pnl": 3302.0,
+              "pnl_pct": 73.1
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1110.0,
+                  "entry_mark": 11.55,
+                  "delta": 0.345
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1060.0,
+                  "entry_mark": 14.0,
+                  "delta": -0.323
+                }
+              ],
+              "debit_per_share": 25.55,
+              "cost_per_contract": 2555.0,
+              "contracts": 1,
+              "total_debit": 2555.0,
+              "leg_exit_values": [
+                53.17,
+                0.0
+              ],
+              "exit_per_share": 53.17,
+              "pnl_per_share": 27.62,
+              "total_pnl": 2762.0,
+              "pnl_pct": 108.1
+            }
+          ]
+        },
+        {
+          "label": "Weekly 2w",
+          "expiry_date": "2026-01-23",
+          "entry_dte": 14,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1085.0,
+                  "entry_mark": 27.55,
+                  "delta": 0.519
+                }
+              ],
+              "debit_per_share": 27.55,
+              "cost_per_contract": 2755.0,
+              "contracts": 1,
+              "total_debit": 2755.0,
+              "leg_exit_values": [
+                79.35
+              ],
+              "exit_per_share": 79.35,
+              "pnl_per_share": 51.8,
+              "total_pnl": 5180.0,
+              "pnl_pct": 188.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1085.0,
+                  "entry_mark": 27.55,
+                  "delta": 0.519
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1085.0,
+                  "entry_mark": 24.95,
+                  "delta": -0.482
+                }
+              ],
+              "debit_per_share": 52.5,
+              "cost_per_contract": 5250.0,
+              "contracts": 1,
+              "total_debit": 5250.0,
+              "leg_exit_values": [
+                79.35,
+                0.6
+              ],
+              "exit_per_share": 79.95,
+              "pnl_per_share": 27.45,
+              "total_pnl": 2745.0,
+              "pnl_pct": 52.3
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1110.0,
+                  "entry_mark": 15.55,
+                  "delta": 0.367
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1060.0,
+                  "entry_mark": 15.7,
+                  "delta": -0.337
+                }
+              ],
+              "debit_per_share": 31.25,
+              "cost_per_contract": 3125.0,
+              "contracts": 1,
+              "total_debit": 3125.0,
+              "leg_exit_values": [
+                55.4,
+                0.78
+              ],
+              "exit_per_share": 56.18,
+              "pnl_per_share": 24.93,
+              "total_pnl": 2493.0,
+              "pnl_pct": 79.8
+            }
+          ]
+        },
+        {
+          "label": "Monthly",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1085.0,
+                  "entry_mark": 24.35,
+                  "delta": 0.532
+                }
+              ],
+              "debit_per_share": 24.35,
+              "cost_per_contract": 2435.0,
+              "contracts": 1,
+              "total_debit": 2435.0,
+              "leg_exit_values": [
+                78.17
+              ],
+              "exit_per_share": 78.17,
+              "pnl_per_share": 53.82,
+              "total_pnl": 5382.0,
+              "pnl_pct": 221.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1085.0,
+                  "entry_mark": 24.35,
+                  "delta": 0.532
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1085.0,
+                  "entry_mark": 20.8,
+                  "delta": -0.473
+                }
+              ],
+              "debit_per_share": 45.15,
+              "cost_per_contract": 4515.0,
+              "contracts": 1,
+              "total_debit": 4515.0,
+              "leg_exit_values": [
+                78.17,
+                0.0
+              ],
+              "exit_per_share": 78.17,
+              "pnl_per_share": 33.02,
+              "total_pnl": 3302.0,
+              "pnl_pct": 73.1
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1110.0,
+                  "entry_mark": 11.55,
+                  "delta": 0.345
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1060.0,
+                  "entry_mark": 14.0,
+                  "delta": -0.323
+                }
+              ],
+              "debit_per_share": 25.55,
+              "cost_per_contract": 2555.0,
+              "contracts": 1,
+              "total_debit": 2555.0,
+              "leg_exit_values": [
+                53.17,
+                0.0
+              ],
+              "exit_per_share": 53.17,
+              "pnl_per_share": 27.62,
+              "total_pnl": 2762.0,
+              "pnl_pct": 108.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "GS",
+      "earnings_date": "2026-01-15",
+      "earnings_time": "BMO",
+      "earnings_move_pct": 4.63,
+      "entry_date": "2026-01-09",
+      "exit_date": "2026-01-16",
+      "entry_close": 938.98,
+      "exit_close": 962.0,
+      "stock_move_pct": 2.45,
+      "buckets": [
+        {
+          "label": "Weekly 1w",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 940.0,
+                  "entry_mark": 20.65,
+                  "delta": 0.503
+                }
+              ],
+              "debit_per_share": 20.65,
+              "cost_per_contract": 2065.0,
+              "contracts": 1,
+              "total_debit": 2065.0,
+              "leg_exit_values": [
+                22.0
+              ],
+              "exit_per_share": 22.0,
+              "pnl_per_share": 1.35,
+              "total_pnl": 135.0,
+              "pnl_pct": 6.5
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 940.0,
+                  "entry_mark": 20.65,
+                  "delta": 0.503
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 940.0,
+                  "entry_mark": 21.18,
+                  "delta": -0.497
+                }
+              ],
+              "debit_per_share": 41.83,
+              "cost_per_contract": 4183.0,
+              "contracts": 1,
+              "total_debit": 4183.0,
+              "leg_exit_values": [
+                22.0,
+                0.0
+              ],
+              "exit_per_share": 22.0,
+              "pnl_per_share": -19.83,
+              "total_pnl": -1983.0,
+              "pnl_pct": -47.4
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 960.0,
+                  "entry_mark": 11.55,
+                  "delta": 0.35
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 920.0,
+                  "entry_mark": 12.98,
+                  "delta": -0.35
+                }
+              ],
+              "debit_per_share": 24.53,
+              "cost_per_contract": 2453.0,
+              "contracts": 1,
+              "total_debit": 2453.0,
+              "leg_exit_values": [
+                2.0,
+                0.0
+              ],
+              "exit_per_share": 2.0,
+              "pnl_per_share": -22.53,
+              "total_pnl": -2253.0,
+              "pnl_pct": -91.8
+            }
+          ]
+        },
+        {
+          "label": "Weekly 2w",
+          "expiry_date": "2026-01-23",
+          "entry_dte": 14,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 940.0,
+                  "entry_mark": 24.55,
+                  "delta": 0.504
+                }
+              ],
+              "debit_per_share": 24.55,
+              "cost_per_contract": 2455.0,
+              "contracts": 1,
+              "total_debit": 2455.0,
+              "leg_exit_values": [
+                27.1
+              ],
+              "exit_per_share": 27.1,
+              "pnl_per_share": 2.55,
+              "total_pnl": 255.0,
+              "pnl_pct": 10.4
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 940.0,
+                  "entry_mark": 24.55,
+                  "delta": 0.504
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 940.0,
+                  "entry_mark": 24.8,
+                  "delta": -0.496
+                }
+              ],
+              "debit_per_share": 49.35,
+              "cost_per_contract": 4935.0,
+              "contracts": 1,
+              "total_debit": 4935.0,
+              "leg_exit_values": [
+                27.1,
+                4.65
+              ],
+              "exit_per_share": 31.75,
+              "pnl_per_share": -17.6,
+              "total_pnl": -1760.0,
+              "pnl_pct": -35.7
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 960.0,
+                  "entry_mark": 15.58,
+                  "delta": 0.377
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 920.0,
+                  "entry_mark": 16.75,
+                  "delta": -0.371
+                }
+              ],
+              "debit_per_share": 32.33,
+              "cost_per_contract": 3233.0,
+              "contracts": 1,
+              "total_debit": 3233.0,
+              "leg_exit_values": [
+                13.18,
+                1.72
+              ],
+              "exit_per_share": 14.9,
+              "pnl_per_share": -17.43,
+              "total_pnl": -1743.0,
+              "pnl_pct": -53.9
+            }
+          ]
+        },
+        {
+          "label": "Monthly",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 940.0,
+                  "entry_mark": 20.65,
+                  "delta": 0.503
+                }
+              ],
+              "debit_per_share": 20.65,
+              "cost_per_contract": 2065.0,
+              "contracts": 1,
+              "total_debit": 2065.0,
+              "leg_exit_values": [
+                22.0
+              ],
+              "exit_per_share": 22.0,
+              "pnl_per_share": 1.35,
+              "total_pnl": 135.0,
+              "pnl_pct": 6.5
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 940.0,
+                  "entry_mark": 20.65,
+                  "delta": 0.503
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 940.0,
+                  "entry_mark": 21.18,
+                  "delta": -0.497
+                }
+              ],
+              "debit_per_share": 41.83,
+              "cost_per_contract": 4183.0,
+              "contracts": 1,
+              "total_debit": 4183.0,
+              "leg_exit_values": [
+                22.0,
+                0.0
+              ],
+              "exit_per_share": 22.0,
+              "pnl_per_share": -19.83,
+              "total_pnl": -1983.0,
+              "pnl_pct": -47.4
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 960.0,
+                  "entry_mark": 11.55,
+                  "delta": 0.35
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 920.0,
+                  "entry_mark": 12.98,
+                  "delta": -0.35
+                }
+              ],
+              "debit_per_share": 24.53,
+              "cost_per_contract": 2453.0,
+              "contracts": 1,
+              "total_debit": 2453.0,
+              "leg_exit_values": [
+                2.0,
+                0.0
+              ],
+              "exit_per_share": 2.0,
+              "pnl_per_share": -22.53,
+              "total_pnl": -2253.0,
+              "pnl_pct": -91.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "ASML",
+      "earnings_date": "2026-01-27",
+      "earnings_time": "AMC",
+      "earnings_move_pct": -2.18,
+      "entry_date": "2026-01-23",
+      "exit_date": "2026-01-30",
+      "entry_close": 1389.04,
+      "exit_close": 1423.0,
+      "stock_move_pct": 2.44,
+      "buckets": [
+        {
+          "label": "Weekly 1w",
+          "expiry_date": "2026-01-30",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1390.0,
+                  "entry_mark": 47.7,
+                  "delta": 0.512
+                }
+              ],
+              "debit_per_share": 47.7,
+              "cost_per_contract": 4770.0,
+              "contracts": 1,
+              "total_debit": 4770.0,
+              "leg_exit_values": [
+                33.0
+              ],
+              "exit_per_share": 33.0,
+              "pnl_per_share": -14.7,
+              "total_pnl": -1470.0,
+              "pnl_pct": -30.8
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1390.0,
+                  "entry_mark": 47.7,
+                  "delta": 0.512
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1390.0,
+                  "entry_mark": 48.35,
+                  "delta": -0.488
+                }
+              ],
+              "debit_per_share": 96.05,
+              "cost_per_contract": 9605.0,
+              "contracts": 1,
+              "total_debit": 9605.0,
+              "leg_exit_values": [
+                33.0,
+                0.0
+              ],
+              "exit_per_share": 33.0,
+              "pnl_per_share": -63.05,
+              "total_pnl": -6305.0,
+              "pnl_pct": -65.6
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1420.0,
+                  "entry_mark": 35.1,
+                  "delta": 0.416
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1360.0,
+                  "entry_mark": 35.6,
+                  "delta": -0.39
+                }
+              ],
+              "debit_per_share": 70.7,
+              "cost_per_contract": 7070.0,
+              "contracts": 1,
+              "total_debit": 7070.0,
+              "leg_exit_values": [
+                3.0,
+                0.0
+              ],
+              "exit_per_share": 3.0,
+              "pnl_per_share": -67.7,
+              "total_pnl": -6770.0,
+              "pnl_pct": -95.8
+            }
+          ]
+        },
+        {
+          "label": "Weekly 2w",
+          "expiry_date": "2026-02-06",
+          "entry_dte": 14,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1390.0,
+                  "entry_mark": 59.5,
+                  "delta": 0.515
+                }
+              ],
+              "debit_per_share": 59.5,
+              "cost_per_contract": 5950.0,
+              "contracts": 1,
+              "total_debit": 5950.0,
+              "leg_exit_values": [
+                54.45
+              ],
+              "exit_per_share": 54.45,
+              "pnl_per_share": -5.05,
+              "total_pnl": -505.0,
+              "pnl_pct": -8.5
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1390.0,
+                  "entry_mark": 59.5,
+                  "delta": 0.515
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1390.0,
+                  "entry_mark": 60.0,
+                  "delta": -0.484
+                }
+              ],
+              "debit_per_share": 119.5,
+              "cost_per_contract": 11950.0,
+              "contracts": 1,
+              "total_debit": 11950.0,
+              "leg_exit_values": [
+                54.45,
+                19.35
+              ],
+              "exit_per_share": 73.8,
+              "pnl_per_share": -45.7,
+              "total_pnl": -4570.0,
+              "pnl_pct": -38.2
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1420.0,
+                  "entry_mark": 45.45,
+                  "delta": 0.436
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1360.0,
+                  "entry_mark": 43.8,
+                  "delta": -0.402
+                }
+              ],
+              "debit_per_share": 89.25,
+              "cost_per_contract": 8925.0,
+              "contracts": 1,
+              "total_debit": 8925.0,
+              "leg_exit_values": [
+                37.45,
+                12.0
+              ],
+              "exit_per_share": 49.45,
+              "pnl_per_share": -39.8,
+              "total_pnl": -3980.0,
+              "pnl_pct": -44.6
+            }
+          ]
+        },
+        {
+          "label": "Monthly",
+          "expiry_date": "2026-02-20",
+          "entry_dte": 28,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1390.0,
+                  "entry_mark": 72.35,
+                  "delta": 0.518
+                }
+              ],
+              "debit_per_share": 72.35,
+              "cost_per_contract": 7235.0,
+              "contracts": 1,
+              "total_debit": 7235.0,
+              "leg_exit_values": [
+                73.05
+              ],
+              "exit_per_share": 73.05,
+              "pnl_per_share": 0.7,
+              "total_pnl": 70.0,
+              "pnl_pct": 1.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1390.0,
+                  "entry_mark": 72.35,
+                  "delta": 0.518
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1390.0,
+                  "entry_mark": 71.7,
+                  "delta": -0.481
+                }
+              ],
+              "debit_per_share": 144.05,
+              "cost_per_contract": 14405.0,
+              "contracts": 1,
+              "total_debit": 14405.0,
+              "leg_exit_values": [
+                73.05,
+                38.5
+              ],
+              "exit_per_share": 111.55,
+              "pnl_per_share": -32.5,
+              "total_pnl": -3250.0,
+              "pnl_pct": -22.6
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 1420.0,
+                  "entry_mark": 58.45,
+                  "delta": 0.455
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 1360.0,
+                  "entry_mark": 55.15,
+                  "delta": -0.412
+                }
+              ],
+              "debit_per_share": 113.6,
+              "cost_per_contract": 11360.0,
+              "contracts": 1,
+              "total_debit": 11360.0,
+              "leg_exit_values": [
+                56.6,
+                28.65
+              ],
+              "exit_per_share": 85.25,
+              "pnl_per_share": -28.35,
+              "total_pnl": -2835.0,
+              "pnl_pct": -25.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "PGR",
+      "earnings_date": "2026-01-28",
+      "earnings_time": "BMO",
+      "earnings_move_pct": 2.24,
+      "entry_date": "2026-01-23",
+      "exit_date": "2026-01-30",
+      "entry_close": 206.03,
+      "exit_close": 208.0,
+      "stock_move_pct": 0.96,
+      "buckets": [
+        {
+          "label": "Weekly 1w",
+          "expiry_date": "2026-01-30",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 205.0,
+                  "entry_mark": 4.8,
+                  "delta": 0.54
+                }
+              ],
+              "debit_per_share": 4.8,
+              "cost_per_contract": 480.0,
+              "contracts": 1,
+              "total_debit": 480.0,
+              "leg_exit_values": [
+                3.0
+              ],
+              "exit_per_share": 3.0,
+              "pnl_per_share": -1.8,
+              "total_pnl": -180.0,
+              "pnl_pct": -37.5
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 205.0,
+                  "entry_mark": 4.8,
+                  "delta": 0.54
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 205.0,
+                  "entry_mark": 3.9,
+                  "delta": -0.461
+                }
+              ],
+              "debit_per_share": 8.7,
+              "cost_per_contract": 870.0,
+              "contracts": 1,
+              "total_debit": 870.0,
+              "leg_exit_values": [
+                3.0,
+                0.0
+              ],
+              "exit_per_share": 3.0,
+              "pnl_per_share": -5.7,
+              "total_pnl": -570.0,
+              "pnl_pct": -65.5
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 212.5,
+                  "entry_mark": 1.9,
+                  "delta": 0.283
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 200.0,
+                  "entry_mark": 2.15,
+                  "delta": -0.293
+                }
+              ],
+              "debit_per_share": 4.05,
+              "cost_per_contract": 405.0,
+              "contracts": 1,
+              "total_debit": 405.0,
+              "leg_exit_values": [
+                0.0,
+                0.0
+              ],
+              "exit_per_share": 0.0,
+              "pnl_per_share": -4.05,
+              "total_pnl": -405.0,
+              "pnl_pct": -100.0
+            }
+          ]
+        },
+        {
+          "label": "Weekly 2w",
+          "expiry_date": "2026-02-06",
+          "entry_dte": 14,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 205.0,
+                  "entry_mark": 6.3,
+                  "delta": 0.55
+                }
+              ],
+              "debit_per_share": 6.3,
+              "cost_per_contract": 630.0,
+              "contracts": 1,
+              "total_debit": 630.0,
+              "leg_exit_values": [
+                4.85
+              ],
+              "exit_per_share": 4.85,
+              "pnl_per_share": -1.45,
+              "total_pnl": -145.0,
+              "pnl_pct": -23.0
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 205.0,
+                  "entry_mark": 6.3,
+                  "delta": 0.55
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 205.0,
+                  "entry_mark": 4.8,
+                  "delta": -0.452
+                }
+              ],
+              "debit_per_share": 11.1,
+              "cost_per_contract": 1110.0,
+              "contracts": 1,
+              "total_debit": 1110.0,
+              "leg_exit_values": [
+                4.85,
+                1.68
+              ],
+              "exit_per_share": 6.53,
+              "pnl_per_share": -4.57,
+              "total_pnl": -457.0,
+              "pnl_pct": -41.2
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 212.5,
+                  "entry_mark": 2.93,
+                  "delta": 0.337
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 200.0,
+                  "entry_mark": 2.88,
+                  "delta": -0.312
+                }
+              ],
+              "debit_per_share": 5.81,
+              "cost_per_contract": 581.0,
+              "contracts": 1,
+              "total_debit": 581.0,
+              "leg_exit_values": [
+                1.05,
+                0.65
+              ],
+              "exit_per_share": 1.7,
+              "pnl_per_share": -4.11,
+              "total_pnl": -411.0,
+              "pnl_pct": -70.7
+            }
+          ]
+        },
+        {
+          "label": "Monthly",
+          "expiry_date": "2026-02-20",
+          "entry_dte": 28,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 205.0,
+                  "entry_mark": 8.05,
+                  "delta": 0.55
+                }
+              ],
+              "debit_per_share": 8.05,
+              "cost_per_contract": 805.0,
+              "contracts": 1,
+              "total_debit": 805.0,
+              "leg_exit_values": [
+                7.15
+              ],
+              "exit_per_share": 7.15,
+              "pnl_per_share": -0.9,
+              "total_pnl": -90.0,
+              "pnl_pct": -11.2
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 205.0,
+                  "entry_mark": 8.05,
+                  "delta": 0.55
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 205.0,
+                  "entry_mark": 6.1,
+                  "delta": -0.452
+                }
+              ],
+              "debit_per_share": 14.15,
+              "cost_per_contract": 1415.0,
+              "contracts": 1,
+              "total_debit": 1415.0,
+              "leg_exit_values": [
+                7.15,
+                3.8
+              ],
+              "exit_per_share": 10.95,
+              "pnl_per_share": -3.2,
+              "total_pnl": -320.0,
+              "pnl_pct": -22.6
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 212.5,
+                  "entry_mark": 4.2,
+                  "delta": 0.377
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 200.0,
+                  "entry_mark": 4.25,
+                  "delta": -0.343
+                }
+              ],
+              "debit_per_share": 8.45,
+              "cost_per_contract": 845.0,
+              "contracts": 1,
+              "total_debit": 845.0,
+              "leg_exit_values": [
+                3.3,
+                2.17
+              ],
+              "exit_per_share": 5.47,
+              "pnl_per_share": -2.98,
+              "total_pnl": -298.0,
+              "pnl_pct": -35.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "PNC",
+      "earnings_date": "2026-01-16",
+      "earnings_time": "BMO",
+      "earnings_move_pct": 3.79,
+      "entry_date": "2026-01-09",
+      "exit_date": "2026-01-16",
+      "entry_close": 217.55,
+      "exit_close": 223.18,
+      "stock_move_pct": 2.59,
+      "buckets": [
+        {
+          "label": "Weekly 1w",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 217.5,
+                  "entry_mark": 4.35,
+                  "delta": 0.52
+                }
+              ],
+              "debit_per_share": 4.35,
+              "cost_per_contract": 435.0,
+              "contracts": 1,
+              "total_debit": 435.0,
+              "leg_exit_values": [
+                5.68
+              ],
+              "exit_per_share": 5.68,
+              "pnl_per_share": 1.33,
+              "total_pnl": 133.0,
+              "pnl_pct": 30.6
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 217.5,
+                  "entry_mark": 4.35,
+                  "delta": 0.52
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 217.5,
+                  "entry_mark": 3.95,
+                  "delta": -0.482
+                }
+              ],
+              "debit_per_share": 8.3,
+              "cost_per_contract": 830.0,
+              "contracts": 1,
+              "total_debit": 830.0,
+              "leg_exit_values": [
+                5.68,
+                0.0
+              ],
+              "exit_per_share": 5.68,
+              "pnl_per_share": -2.62,
+              "total_pnl": -262.0,
+              "pnl_pct": -31.6
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 222.5,
+                  "entry_mark": 2.38,
+                  "delta": 0.341
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 212.5,
+                  "entry_mark": 2.13,
+                  "delta": -0.302
+                }
+              ],
+              "debit_per_share": 4.51,
+              "cost_per_contract": 451.0,
+              "contracts": 1,
+              "total_debit": 451.0,
+              "leg_exit_values": [
+                0.68,
+                0.0
+              ],
+              "exit_per_share": 0.68,
+              "pnl_per_share": -3.83,
+              "total_pnl": -383.0,
+              "pnl_pct": -84.9
+            }
+          ]
+        },
+        {
+          "label": "Weekly 2w",
+          "expiry_date": "2026-01-23",
+          "entry_dte": 14,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 217.5,
+                  "entry_mark": 4.6,
+                  "delta": 0.491
+                }
+              ],
+              "debit_per_share": 4.6,
+              "cost_per_contract": 460.0,
+              "contracts": 1,
+              "total_debit": 460.0,
+              "leg_exit_values": [
+                5.5
+              ],
+              "exit_per_share": 5.5,
+              "pnl_per_share": 0.9,
+              "total_pnl": 90.0,
+              "pnl_pct": 19.6
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 217.5,
+                  "entry_mark": 4.6,
+                  "delta": 0.491
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 217.5,
+                  "entry_mark": 5.05,
+                  "delta": -0.511
+                }
+              ],
+              "debit_per_share": 9.65,
+              "cost_per_contract": 965.0,
+              "contracts": 1,
+              "total_debit": 965.0,
+              "leg_exit_values": [
+                5.5,
+                0.73
+              ],
+              "exit_per_share": 6.23,
+              "pnl_per_share": -3.42,
+              "total_pnl": -342.0,
+              "pnl_pct": -35.4
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 222.5,
+                  "entry_mark": 2.48,
+                  "delta": 0.327
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 212.5,
+                  "entry_mark": 3.1,
+                  "delta": -0.353
+                }
+              ],
+              "debit_per_share": 5.58,
+              "cost_per_contract": 558.0,
+              "contracts": 1,
+              "total_debit": 558.0,
+              "leg_exit_values": [
+                1.85,
+                0.28
+              ],
+              "exit_per_share": 2.13,
+              "pnl_per_share": -3.45,
+              "total_pnl": -345.0,
+              "pnl_pct": -61.8
+            }
+          ]
+        },
+        {
+          "label": "Monthly",
+          "expiry_date": "2026-01-16",
+          "entry_dte": 7,
+          "strategies": [
+            {
+              "name": "Runup Call",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 217.5,
+                  "entry_mark": 4.35,
+                  "delta": 0.52
+                }
+              ],
+              "debit_per_share": 4.35,
+              "cost_per_contract": 435.0,
+              "contracts": 1,
+              "total_debit": 435.0,
+              "leg_exit_values": [
+                5.68
+              ],
+              "exit_per_share": 5.68,
+              "pnl_per_share": 1.33,
+              "total_pnl": 133.0,
+              "pnl_pct": 30.6
+            },
+            {
+              "name": "ATM Straddle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 217.5,
+                  "entry_mark": 4.35,
+                  "delta": 0.52
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 217.5,
+                  "entry_mark": 3.95,
+                  "delta": -0.482
+                }
+              ],
+              "debit_per_share": 8.3,
+              "cost_per_contract": 830.0,
+              "contracts": 1,
+              "total_debit": 830.0,
+              "leg_exit_values": [
+                5.68,
+                0.0
+              ],
+              "exit_per_share": 5.68,
+              "pnl_per_share": -2.62,
+              "total_pnl": -262.0,
+              "pnl_pct": -31.6
+            },
+            {
+              "name": "2% OTM Strangle",
+              "legs": [
+                {
+                  "action": "BUY",
+                  "type": "CALL",
+                  "strike": 222.5,
+                  "entry_mark": 2.38,
+                  "delta": 0.341
+                },
+                {
+                  "action": "BUY",
+                  "type": "PUT",
+                  "strike": 212.5,
+                  "entry_mark": 2.13,
+                  "delta": -0.302
+                }
+              ],
+              "debit_per_share": 4.51,
+              "cost_per_contract": 451.0,
+              "contracts": 1,
+              "total_debit": 451.0,
+              "leg_exit_values": [
+                0.68,
+                0.0
+              ],
+              "exit_per_share": 0.68,
+              "pnl_per_share": -3.83,
+              "total_pnl": -383.0,
+              "pnl_pct": -84.9
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": [
+    {
+      "strategy": "Runup Call",
+      "dte_bucket": "Weekly 1w",
+      "n": 10,
+      "total_pnl": 2006.0,
+      "avg_pnl": 200.6,
+      "total_debit": 12338.0,
+      "roi_pct": 16.3,
+      "wins": 3,
+      "win_rate": 30.0
+    },
+    {
+      "strategy": "ATM Straddle",
+      "dte_bucket": "Weekly 1w",
+      "n": 10,
+      "total_pnl": -5758.0,
+      "avg_pnl": -575.8,
+      "total_debit": 23519.0,
+      "roi_pct": -24.5,
+      "wins": 4,
+      "win_rate": 40.0
+    },
+    {
+      "strategy": "2% OTM Strangle",
+      "dte_bucket": "Weekly 1w",
+      "n": 10,
+      "total_pnl": -6978.0,
+      "avg_pnl": -697.8,
+      "total_debit": 15040.0,
+      "roi_pct": -46.4,
+      "wins": 4,
+      "win_rate": 40.0
+    },
+    {
+      "strategy": "Runup Call",
+      "dte_bucket": "Weekly 2w",
+      "n": 10,
+      "total_pnl": 3076.0,
+      "avg_pnl": 307.6,
+      "total_debit": 14465.0,
+      "roi_pct": 21.3,
+      "wins": 3,
+      "win_rate": 30.0
+    },
+    {
+      "strategy": "ATM Straddle",
+      "dte_bucket": "Weekly 2w",
+      "n": 10,
+      "total_pnl": -4307.0,
+      "avg_pnl": -430.7,
+      "total_debit": 28210.0,
+      "roi_pct": -15.3,
+      "wins": 4,
+      "win_rate": 40.0
+    },
+    {
+      "strategy": "2% OTM Strangle",
+      "dte_bucket": "Weekly 2w",
+      "n": 10,
+      "total_pnl": -4061.0,
+      "avg_pnl": -406.1,
+      "total_debit": 18872.0,
+      "roi_pct": -21.5,
+      "wins": 4,
+      "win_rate": 40.0
+    },
+    {
+      "strategy": "Runup Call",
+      "dte_bucket": "Monthly",
+      "n": 10,
+      "total_pnl": 3636.0,
+      "avg_pnl": 363.6,
+      "total_debit": 15128.0,
+      "roi_pct": 24.0,
+      "wins": 4,
+      "win_rate": 40.0
+    },
+    {
+      "strategy": "ATM Straddle",
+      "dte_bucket": "Monthly",
+      "n": 10,
+      "total_pnl": -2453.0,
+      "avg_pnl": -245.3,
+      "total_debit": 28864.0,
+      "roi_pct": -8.5,
+      "wins": 4,
+      "win_rate": 40.0
+    },
+    {
+      "strategy": "2% OTM Strangle",
+      "dte_bucket": "Monthly",
+      "n": 10,
+      "total_pnl": -2936.0,
+      "avg_pnl": -293.6,
+      "total_debit": 19770.0,
+      "roi_pct": -14.9,
+      "wins": 4,
+      "win_rate": 40.0
+    }
+  ]
+}

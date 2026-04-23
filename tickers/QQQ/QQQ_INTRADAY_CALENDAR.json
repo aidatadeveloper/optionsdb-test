@@ -1,0 +1,539 @@
+{
+  "ticker": "QQQ",
+  "type": "INTRADAY",
+  "description": "All intraday snapshots",
+  "entries": [
+    {
+      "date": "2026-04-22",
+      "displayLabel": "4/22 16:20",
+      "path": "INTRADAY/20260422/QQQ_20260422_1620.html",
+      "datetime": "2026-04-22T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-04-21",
+      "displayLabel": "4/21 18:30",
+      "path": "INTRADAY/20260421/QQQ_20260421_1830.html",
+      "datetime": "2026-04-21T18:30:00",
+      "time_bucket": "18:30"
+    },
+    {
+      "date": "2026-04-20",
+      "displayLabel": "4/20 16:20",
+      "path": "INTRADAY/20260420/QQQ_20260420_1620.html",
+      "datetime": "2026-04-20T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-04-17",
+      "displayLabel": "4/17 16:20",
+      "path": "INTRADAY/20260417/QQQ_20260417_1620.html",
+      "datetime": "2026-04-17T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-04-16",
+      "displayLabel": "4/16 17:19",
+      "path": "INTRADAY/20260416/QQQ_20260416_1719.html",
+      "datetime": "2026-04-16T17:19:00",
+      "time_bucket": "17:15"
+    },
+    {
+      "date": "2026-04-15",
+      "displayLabel": "4/15 16:50",
+      "path": "INTRADAY/20260415/QQQ_20260415_1650.html",
+      "datetime": "2026-04-15T16:50:00",
+      "time_bucket": "16:50"
+    },
+    {
+      "date": "2026-04-14",
+      "displayLabel": "4/14 16:20",
+      "path": "INTRADAY/20260414/QQQ_20260414_1620.html",
+      "datetime": "2026-04-14T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-04-13",
+      "displayLabel": "4/13 16:20",
+      "path": "INTRADAY/20260413/QQQ_20260413_1620.html",
+      "datetime": "2026-04-13T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-04-10",
+      "displayLabel": "4/10 16:20",
+      "path": "INTRADAY/20260410/QQQ_20260410_1620.html",
+      "datetime": "2026-04-10T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-04-09",
+      "displayLabel": "4/9 16:45",
+      "path": "INTRADAY/20260409/QQQ_20260409_1645.html",
+      "datetime": "2026-04-09T16:45:00",
+      "time_bucket": "16:45"
+    },
+    {
+      "date": "2026-04-08",
+      "displayLabel": "4/8 16:20",
+      "path": "INTRADAY/20260408/QQQ_20260408_1620.html",
+      "datetime": "2026-04-08T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-04-07",
+      "displayLabel": "4/7 16:20",
+      "path": "INTRADAY/20260407/QQQ_20260407_1620.html",
+      "datetime": "2026-04-07T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-04-06",
+      "displayLabel": "4/6 16:20",
+      "path": "INTRADAY/20260406/QQQ_20260406_1620.html",
+      "datetime": "2026-04-06T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-04-02",
+      "displayLabel": "4/2 16:20",
+      "path": "INTRADAY/20260402/QQQ_20260402_1620.html",
+      "datetime": "2026-04-02T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-04-01",
+      "displayLabel": "4/1 15:45",
+      "path": "INTRADAY/20260401/QQQ_20260401_1545.html",
+      "datetime": "2026-04-01T15:45:00",
+      "time_bucket": "15:45"
+    },
+    {
+      "date": "2026-03-31",
+      "displayLabel": "3/31 16:20",
+      "path": "INTRADAY/20260331/QQQ_20260331_1620.html",
+      "datetime": "2026-03-31T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-30",
+      "displayLabel": "3/30 16:20",
+      "path": "INTRADAY/20260330/QQQ_20260330_1620.html",
+      "datetime": "2026-03-30T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-27",
+      "displayLabel": "3/27 16:35",
+      "path": "INTRADAY/20260327/QQQ_20260327_1635.html",
+      "datetime": "2026-03-27T16:35:00",
+      "time_bucket": "16:35"
+    },
+    {
+      "date": "2026-03-26",
+      "displayLabel": "3/26 16:20",
+      "path": "INTRADAY/20260326/QQQ_20260326_1620.html",
+      "datetime": "2026-03-26T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-25",
+      "displayLabel": "3/25 16:23",
+      "path": "INTRADAY/20260325/QQQ_20260325_1623.html",
+      "datetime": "2026-03-25T16:23:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-24",
+      "displayLabel": "3/24 16:20",
+      "path": "INTRADAY/20260324/QQQ_20260324_1620.html",
+      "datetime": "2026-03-24T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-23",
+      "displayLabel": "3/23 16:20",
+      "path": "INTRADAY/20260323/QQQ_20260323_1620.html",
+      "datetime": "2026-03-23T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-20",
+      "displayLabel": "3/20 16:20",
+      "path": "INTRADAY/20260320/QQQ_20260320_1620.html",
+      "datetime": "2026-03-20T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-19",
+      "displayLabel": "3/19 16:20",
+      "path": "INTRADAY/20260319/QQQ_20260319_1620.html",
+      "datetime": "2026-03-19T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-18",
+      "displayLabel": "3/18 16:20",
+      "path": "INTRADAY/20260318/QQQ_20260318_1620.html",
+      "datetime": "2026-03-18T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-17",
+      "displayLabel": "3/17 16:20",
+      "path": "INTRADAY/20260317/QQQ_20260317_1620.html",
+      "datetime": "2026-03-17T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-16",
+      "displayLabel": "3/16 16:20",
+      "path": "INTRADAY/20260316/QQQ_20260316_1620.html",
+      "datetime": "2026-03-16T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-13",
+      "displayLabel": "3/13 10:55",
+      "path": "INTRADAY/20260313/QQQ_20260313_1055.html",
+      "datetime": "2026-03-13T10:55:00",
+      "time_bucket": "10:55"
+    },
+    {
+      "date": "2026-03-12",
+      "displayLabel": "3/12 16:20",
+      "path": "INTRADAY/20260312/QQQ_20260312_1620.html",
+      "datetime": "2026-03-12T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-11",
+      "displayLabel": "3/11 16:20",
+      "path": "INTRADAY/20260311/QQQ_20260311_1620.html",
+      "datetime": "2026-03-11T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-10",
+      "displayLabel": "3/10 16:20",
+      "path": "INTRADAY/20260310/QQQ_20260310_1620.html",
+      "datetime": "2026-03-10T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-09",
+      "displayLabel": "3/9 16:20",
+      "path": "INTRADAY/20260309/QQQ_20260309_1620.html",
+      "datetime": "2026-03-09T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-06",
+      "displayLabel": "3/6 16:20",
+      "path": "INTRADAY/20260306/QQQ_20260306_1620.html",
+      "datetime": "2026-03-06T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-05",
+      "displayLabel": "3/5 16:20",
+      "path": "INTRADAY/20260305/QQQ_20260305_1620.html",
+      "datetime": "2026-03-05T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-04",
+      "displayLabel": "3/4 16:20",
+      "path": "INTRADAY/20260304/QQQ_20260304_1620.html",
+      "datetime": "2026-03-04T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-03",
+      "displayLabel": "3/3 16:20",
+      "path": "INTRADAY/20260303/QQQ_20260303_1620.html",
+      "datetime": "2026-03-03T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-03-02",
+      "displayLabel": "3/2 16:20",
+      "path": "INTRADAY/20260302/QQQ_20260302_1620.html",
+      "datetime": "2026-03-02T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-27",
+      "displayLabel": "2/27 16:20",
+      "path": "INTRADAY/20260227/QQQ_20260227_1620.html",
+      "datetime": "2026-02-27T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-26",
+      "displayLabel": "2/26 16:20",
+      "path": "INTRADAY/20260226/QQQ_20260226_1620.html",
+      "datetime": "2026-02-26T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-25",
+      "displayLabel": "2/25 16:20",
+      "path": "INTRADAY/20260225/QQQ_20260225_1620.html",
+      "datetime": "2026-02-25T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-24",
+      "displayLabel": "2/13",
+      "path": "INTRADAY/20260224/QQQ_20260224_1621.html",
+      "datetime": "2026-02-24T16:21:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-23",
+      "displayLabel": "2/23 16:20",
+      "path": "INTRADAY/20260223/QQQ_20260223_1620.html",
+      "datetime": "2026-02-23T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-20",
+      "displayLabel": "2/20 16:20",
+      "path": "INTRADAY/20260220/QQQ_20260220_1620.html",
+      "datetime": "2026-02-20T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-19",
+      "displayLabel": "2/19 16:20",
+      "path": "INTRADAY/20260219/QQQ_20260219_1620.html",
+      "datetime": "2026-02-19T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-18",
+      "displayLabel": "2/18 16:20",
+      "path": "INTRADAY/20260218/QQQ_20260218_1620.html",
+      "datetime": "2026-02-18T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-17",
+      "displayLabel": "2/17 16:22",
+      "path": "INTRADAY/20260217/QQQ_20260217_1622.html",
+      "datetime": "2026-02-17T16:22:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-13",
+      "displayLabel": "2/13 16:20",
+      "path": "INTRADAY/20260213/QQQ_20260213_1620.html",
+      "datetime": "2026-02-13T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-12",
+      "displayLabel": "2/12 16:20",
+      "path": "INTRADAY/20260212/QQQ_20260212_1620.html",
+      "datetime": "2026-02-12T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-11",
+      "displayLabel": "2/11 16:20",
+      "path": "INTRADAY/20260211/QQQ_20260211_1620.html",
+      "datetime": "2026-02-11T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-10",
+      "displayLabel": "2/10 16:20",
+      "path": "INTRADAY/20260210/QQQ_20260210_1620.html",
+      "datetime": "2026-02-10T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-09",
+      "displayLabel": "2/9 16:20",
+      "path": "INTRADAY/20260209/QQQ_20260209_1620.html",
+      "datetime": "2026-02-09T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-06",
+      "displayLabel": "2/6 16:20",
+      "path": "INTRADAY/20260206/QQQ_20260206_1620.html",
+      "datetime": "2026-02-06T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-05",
+      "displayLabel": "2/5 16:20",
+      "path": "INTRADAY/20260205/QQQ_20260205_1620.html",
+      "datetime": "2026-02-05T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-04",
+      "displayLabel": "2/4 16:20",
+      "path": "INTRADAY/20260204/QQQ_20260204_1620.html",
+      "datetime": "2026-02-04T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-03",
+      "displayLabel": "2/3 16:20",
+      "path": "INTRADAY/20260203/QQQ_20260203_1620.html",
+      "datetime": "2026-02-03T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-02-02",
+      "displayLabel": "2/2 16:20",
+      "path": "INTRADAY/20260202/QQQ_20260202_1620.html",
+      "datetime": "2026-02-02T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-30",
+      "displayLabel": "1/30 16:20",
+      "path": "INTRADAY/20260130/QQQ_20260130_1620.html",
+      "datetime": "2026-01-30T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-29",
+      "displayLabel": "1/29 16:20",
+      "path": "INTRADAY/20260129/QQQ_20260129_1620.html",
+      "datetime": "2026-01-29T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-28",
+      "displayLabel": "1/28 16:20",
+      "path": "INTRADAY/20260128/QQQ_20260128_1620.html",
+      "datetime": "2026-01-28T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-27",
+      "displayLabel": "1/27 16:20",
+      "path": "INTRADAY/20260127/QQQ_20260127_1620.html",
+      "datetime": "2026-01-27T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-26",
+      "displayLabel": "1/26 16:20",
+      "path": "INTRADAY/20260126/QQQ_20260126_1620.html",
+      "datetime": "2026-01-26T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-23",
+      "displayLabel": "1/23 16:20",
+      "path": "INTRADAY/20260123/QQQ_20260123_1620.html",
+      "datetime": "2026-01-23T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-22",
+      "displayLabel": "1/22 16:20",
+      "path": "INTRADAY/20260122/QQQ_20260122_1620.html",
+      "datetime": "2026-01-22T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-07",
+      "displayLabel": "1/7 15:35",
+      "path": "INTRADAY/20260107/QQQ_20260107_1535.html",
+      "datetime": "2026-01-07T15:35:00",
+      "time_bucket": "15:35"
+    },
+    {
+      "date": "2026-01-06",
+      "displayLabel": "1/6 16:20",
+      "path": "INTRADAY/20260106/QQQ_20260106_1620.html",
+      "datetime": "2026-01-06T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-05",
+      "displayLabel": "1/5 16:20",
+      "path": "INTRADAY/20260105/QQQ_20260105_1620.html",
+      "datetime": "2026-01-05T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-02",
+      "displayLabel": "1/2 16:21",
+      "path": "INTRADAY/20260102/QQQ_20260102_1621.html",
+      "datetime": "2026-01-02T16:21:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-21",
+      "displayLabel": "1/21 16:20",
+      "path": "INTRADAY/20260121/QQQ_20260121_1620.html",
+      "datetime": "2026-01-21T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-20",
+      "displayLabel": "1/20 16:20",
+      "path": "INTRADAY/20260120/QQQ_20260120_1620.html",
+      "datetime": "2026-01-20T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-16",
+      "displayLabel": "1/16 16:20",
+      "path": "INTRADAY/20260116/QQQ_20260116_1620.html",
+      "datetime": "2026-01-16T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-15",
+      "displayLabel": "1/15 16:20",
+      "path": "INTRADAY/20260115/QQQ_20260115_1620.html",
+      "datetime": "2026-01-15T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-14",
+      "displayLabel": "1/14 16:20",
+      "path": "INTRADAY/20260114/QQQ_20260114_1620.html",
+      "datetime": "2026-01-14T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-13",
+      "displayLabel": "1/13 16:20",
+      "path": "INTRADAY/20260113/QQQ_20260113_1620.html",
+      "datetime": "2026-01-13T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-12",
+      "displayLabel": "1/26",
+      "path": "INTRADAY/20260112/QQQ_20260112_1620.html",
+      "datetime": "2026-01-12T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-09",
+      "displayLabel": "1/26",
+      "path": "INTRADAY/20260109/QQQ_20260109_1620.html",
+      "datetime": "2026-01-09T16:20:00",
+      "time_bucket": "16:20"
+    },
+    {
+      "date": "2026-01-08",
+      "displayLabel": "1/26",
+      "path": "INTRADAY/20260108/QQQ_20260108_1620.html",
+      "datetime": "2026-01-08T16:20:00",
+      "time_bucket": "16:20"
+    }
+  ]
+}

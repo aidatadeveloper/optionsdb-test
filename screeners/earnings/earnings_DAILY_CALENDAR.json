@@ -1,0 +1,1365 @@
+{
+  "generated_at": "2026-04-22T18:04:26.185459",
+  "entries": [
+    {
+      "trade_date": "2026-01-06",
+      "filename": "earnings_20260106_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260106_1405.html"
+    },
+    {
+      "trade_date": "2026-01-07",
+      "filename": "earnings_20260107_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260107_1405.html"
+    },
+    {
+      "trade_date": "2026-01-08",
+      "filename": "earnings_20260108_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260108_1405.html"
+    },
+    {
+      "trade_date": "2026-01-09",
+      "filename": "earnings_20260109_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260109_1405.html"
+    },
+    {
+      "trade_date": "2026-01-12",
+      "filename": "earnings_20260112_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260112_1405.html"
+    },
+    {
+      "trade_date": "2026-01-13",
+      "filename": "earnings_20260113_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260113_1405.html"
+    },
+    {
+      "trade_date": "2026-01-14",
+      "filename": "earnings_20260114_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260114_1405.html"
+    },
+    {
+      "trade_date": "2026-01-15",
+      "filename": "earnings_20260115_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260115_1405.html"
+    },
+    {
+      "trade_date": "2026-01-16",
+      "filename": "earnings_20260116_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260116_1405.html"
+    },
+    {
+      "trade_date": "2026-01-20",
+      "filename": "earnings_20260120_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260120_1405.html"
+    },
+    {
+      "trade_date": "2026-01-21",
+      "filename": "earnings_20260121_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260121_1405.html"
+    },
+    {
+      "trade_date": "2026-01-22",
+      "filename": "earnings_20260122_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260122_1405.html"
+    },
+    {
+      "trade_date": "2026-01-23",
+      "filename": "earnings_20260123_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260123_1405.html"
+    },
+    {
+      "trade_date": "2026-01-26",
+      "filename": "earnings_20260126_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260126_1405.html"
+    },
+    {
+      "trade_date": "2026-01-27",
+      "filename": "earnings_20260127_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260127_1405.html"
+    },
+    {
+      "trade_date": "2026-01-28",
+      "filename": "earnings_20260128_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260128_1405.html"
+    },
+    {
+      "trade_date": "2026-01-29",
+      "filename": "earnings_20260129_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260129_1405.html"
+    },
+    {
+      "trade_date": "2026-01-30",
+      "filename": "earnings_20260130_1405.html",
+      "path_from_screener": "HTML/202601/earnings_20260130_1405.html"
+    },
+    {
+      "trade_date": "2026-02-02",
+      "filename": "earnings_20260202_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260202_1405.html"
+    },
+    {
+      "trade_date": "2026-02-03",
+      "filename": "earnings_20260203_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260203_1405.html"
+    },
+    {
+      "trade_date": "2026-02-04",
+      "filename": "earnings_20260204_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260204_1405.html"
+    },
+    {
+      "trade_date": "2026-02-05",
+      "filename": "earnings_20260205_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260205_1405.html"
+    },
+    {
+      "trade_date": "2026-02-06",
+      "filename": "earnings_20260206_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260206_1405.html"
+    },
+    {
+      "trade_date": "2026-02-09",
+      "filename": "earnings_20260209_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260209_1405.html"
+    },
+    {
+      "trade_date": "2026-02-10",
+      "filename": "earnings_20260210_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260210_1405.html"
+    },
+    {
+      "trade_date": "2026-02-11",
+      "filename": "earnings_20260211_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260211_1405.html"
+    },
+    {
+      "trade_date": "2026-02-12",
+      "filename": "earnings_20260212_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260212_1405.html"
+    },
+    {
+      "trade_date": "2026-02-13",
+      "filename": "earnings_20260213_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260213_1405.html"
+    },
+    {
+      "trade_date": "2026-02-16",
+      "filename": "earnings_20260216_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260216_1405.html"
+    },
+    {
+      "trade_date": "2026-02-17",
+      "filename": "earnings_20260217_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260217_1405.html"
+    },
+    {
+      "trade_date": "2026-02-18",
+      "filename": "earnings_20260218_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260218_1405.html"
+    },
+    {
+      "trade_date": "2026-02-19",
+      "filename": "earnings_20260219_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260219_1405.html"
+    },
+    {
+      "trade_date": "2026-02-19",
+      "filename": "earnings_20260219_2348.html",
+      "path_from_screener": "HTML/202602/earnings_20260219_2348.html"
+    },
+    {
+      "trade_date": "2026-02-20",
+      "filename": "earnings_20260220_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260220_1405.html"
+    },
+    {
+      "trade_date": "2026-02-20",
+      "filename": "earnings_20260220_1443.html",
+      "path_from_screener": "HTML/202602/earnings_20260220_1443.html"
+    },
+    {
+      "trade_date": "2026-02-20",
+      "filename": "earnings_20260220_2215.html",
+      "path_from_screener": "HTML/202602/earnings_20260220_2215.html"
+    },
+    {
+      "trade_date": "2026-02-23",
+      "filename": "earnings_20260223_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260223_1405.html"
+    },
+    {
+      "trade_date": "2026-02-23",
+      "filename": "earnings_20260223_1442.html",
+      "path_from_screener": "HTML/202602/earnings_20260223_1442.html"
+    },
+    {
+      "trade_date": "2026-02-23",
+      "filename": "earnings_20260223_2215.html",
+      "path_from_screener": "HTML/202602/earnings_20260223_2215.html"
+    },
+    {
+      "trade_date": "2026-02-23",
+      "filename": "earnings_20260223_2318.html",
+      "path_from_screener": "HTML/202602/earnings_20260223_2318.html"
+    },
+    {
+      "trade_date": "2026-02-24",
+      "filename": "earnings_20260224_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260224_1405.html"
+    },
+    {
+      "trade_date": "2026-02-24",
+      "filename": "earnings_20260224_1442.html",
+      "path_from_screener": "HTML/202602/earnings_20260224_1442.html"
+    },
+    {
+      "trade_date": "2026-02-24",
+      "filename": "earnings_20260224_1559.html",
+      "path_from_screener": "HTML/202602/earnings_20260224_1559.html"
+    },
+    {
+      "trade_date": "2026-02-24",
+      "filename": "earnings_20260224_2202.html",
+      "path_from_screener": "HTML/202602/earnings_20260224_2202.html"
+    },
+    {
+      "trade_date": "2026-02-24",
+      "filename": "earnings_20260224_2319.html",
+      "path_from_screener": "HTML/202602/earnings_20260224_2319.html"
+    },
+    {
+      "trade_date": "2026-02-25",
+      "filename": "earnings_20260225_0149.html",
+      "path_from_screener": "HTML/202602/earnings_20260225_0149.html"
+    },
+    {
+      "trade_date": "2026-02-25",
+      "filename": "earnings_20260225_0238.html",
+      "path_from_screener": "HTML/202602/earnings_20260225_0238.html"
+    },
+    {
+      "trade_date": "2026-02-25",
+      "filename": "earnings_20260225_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260225_1405.html"
+    },
+    {
+      "trade_date": "2026-02-25",
+      "filename": "earnings_20260225_1559.html",
+      "path_from_screener": "HTML/202602/earnings_20260225_1559.html"
+    },
+    {
+      "trade_date": "2026-02-25",
+      "filename": "earnings_20260225_1629.html",
+      "path_from_screener": "HTML/202602/earnings_20260225_1629.html"
+    },
+    {
+      "trade_date": "2026-02-25",
+      "filename": "earnings_20260225_2202.html",
+      "path_from_screener": "HTML/202602/earnings_20260225_2202.html"
+    },
+    {
+      "trade_date": "2026-02-25",
+      "filename": "earnings_20260225_2241.html",
+      "path_from_screener": "HTML/202602/earnings_20260225_2241.html"
+    },
+    {
+      "trade_date": "2026-02-26",
+      "filename": "earnings_20260226_0149.html",
+      "path_from_screener": "HTML/202602/earnings_20260226_0149.html"
+    },
+    {
+      "trade_date": "2026-02-26",
+      "filename": "earnings_20260226_0212.html",
+      "path_from_screener": "HTML/202602/earnings_20260226_0212.html"
+    },
+    {
+      "trade_date": "2026-02-26",
+      "filename": "earnings_20260226_0238.html",
+      "path_from_screener": "HTML/202602/earnings_20260226_0238.html"
+    },
+    {
+      "trade_date": "2026-02-26",
+      "filename": "earnings_20260226_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260226_1405.html"
+    },
+    {
+      "trade_date": "2026-02-26",
+      "filename": "earnings_20260226_1427.html",
+      "path_from_screener": "HTML/202602/earnings_20260226_1427.html"
+    },
+    {
+      "trade_date": "2026-02-26",
+      "filename": "earnings_20260226_1508.html",
+      "path_from_screener": "HTML/202602/earnings_20260226_1508.html"
+    },
+    {
+      "trade_date": "2026-02-26",
+      "filename": "earnings_20260226_1629.html",
+      "path_from_screener": "HTML/202602/earnings_20260226_1629.html"
+    },
+    {
+      "trade_date": "2026-02-26",
+      "filename": "earnings_20260226_2241.html",
+      "path_from_screener": "HTML/202602/earnings_20260226_2241.html"
+    },
+    {
+      "trade_date": "2026-02-27",
+      "filename": "earnings_20260227_0212.html",
+      "path_from_screener": "HTML/202602/earnings_20260227_0212.html"
+    },
+    {
+      "trade_date": "2026-02-27",
+      "filename": "earnings_20260227_1405.html",
+      "path_from_screener": "HTML/202602/earnings_20260227_1405.html"
+    },
+    {
+      "trade_date": "2026-02-27",
+      "filename": "earnings_20260227_1412.html",
+      "path_from_screener": "HTML/202602/earnings_20260227_1412.html"
+    },
+    {
+      "trade_date": "2026-02-27",
+      "filename": "earnings_20260227_1427.html",
+      "path_from_screener": "HTML/202602/earnings_20260227_1427.html"
+    },
+    {
+      "trade_date": "2026-02-27",
+      "filename": "earnings_20260227_1430.html",
+      "path_from_screener": "HTML/202602/earnings_20260227_1430.html"
+    },
+    {
+      "trade_date": "2026-02-27",
+      "filename": "earnings_20260227_1508.html",
+      "path_from_screener": "HTML/202602/earnings_20260227_1508.html"
+    },
+    {
+      "trade_date": "2026-02-27",
+      "filename": "earnings_20260227_2234.html",
+      "path_from_screener": "HTML/202602/earnings_20260227_2234.html"
+    },
+    {
+      "trade_date": "2026-03-02",
+      "filename": "earnings_20260302_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260302_1405.html"
+    },
+    {
+      "trade_date": "2026-03-02",
+      "filename": "earnings_20260302_1412.html",
+      "path_from_screener": "HTML/202603/earnings_20260302_1412.html"
+    },
+    {
+      "trade_date": "2026-03-02",
+      "filename": "earnings_20260302_1413.html",
+      "path_from_screener": "HTML/202603/earnings_20260302_1413.html"
+    },
+    {
+      "trade_date": "2026-03-02",
+      "filename": "earnings_20260302_1430.html",
+      "path_from_screener": "HTML/202603/earnings_20260302_1430.html"
+    },
+    {
+      "trade_date": "2026-03-02",
+      "filename": "earnings_20260302_1435.html",
+      "path_from_screener": "HTML/202603/earnings_20260302_1435.html"
+    },
+    {
+      "trade_date": "2026-03-02",
+      "filename": "earnings_20260302_2234.html",
+      "path_from_screener": "HTML/202603/earnings_20260302_2234.html"
+    },
+    {
+      "trade_date": "2026-03-03",
+      "filename": "earnings_20260303_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260303_1405.html"
+    },
+    {
+      "trade_date": "2026-03-03",
+      "filename": "earnings_20260303_1412.html",
+      "path_from_screener": "HTML/202603/earnings_20260303_1412.html"
+    },
+    {
+      "trade_date": "2026-03-03",
+      "filename": "earnings_20260303_1413.html",
+      "path_from_screener": "HTML/202603/earnings_20260303_1413.html"
+    },
+    {
+      "trade_date": "2026-03-03",
+      "filename": "earnings_20260303_1434.html",
+      "path_from_screener": "HTML/202603/earnings_20260303_1434.html"
+    },
+    {
+      "trade_date": "2026-03-03",
+      "filename": "earnings_20260303_1435.html",
+      "path_from_screener": "HTML/202603/earnings_20260303_1435.html"
+    },
+    {
+      "trade_date": "2026-03-03",
+      "filename": "earnings_20260303_2232.html",
+      "path_from_screener": "HTML/202603/earnings_20260303_2232.html"
+    },
+    {
+      "trade_date": "2026-03-04",
+      "filename": "earnings_20260304_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260304_1405.html"
+    },
+    {
+      "trade_date": "2026-03-04",
+      "filename": "earnings_20260304_1412.html",
+      "path_from_screener": "HTML/202603/earnings_20260304_1412.html"
+    },
+    {
+      "trade_date": "2026-03-04",
+      "filename": "earnings_20260304_1414.html",
+      "path_from_screener": "HTML/202603/earnings_20260304_1414.html"
+    },
+    {
+      "trade_date": "2026-03-04",
+      "filename": "earnings_20260304_1434.html",
+      "path_from_screener": "HTML/202603/earnings_20260304_1434.html"
+    },
+    {
+      "trade_date": "2026-03-04",
+      "filename": "earnings_20260304_1444.html",
+      "path_from_screener": "HTML/202603/earnings_20260304_1444.html"
+    },
+    {
+      "trade_date": "2026-03-04",
+      "filename": "earnings_20260304_2232.html",
+      "path_from_screener": "HTML/202603/earnings_20260304_2232.html"
+    },
+    {
+      "trade_date": "2026-03-05",
+      "filename": "earnings_20260305_0401.html",
+      "path_from_screener": "HTML/202603/earnings_20260305_0401.html"
+    },
+    {
+      "trade_date": "2026-03-05",
+      "filename": "earnings_20260305_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260305_1405.html"
+    },
+    {
+      "trade_date": "2026-03-05",
+      "filename": "earnings_20260305_1410.html",
+      "path_from_screener": "HTML/202603/earnings_20260305_1410.html"
+    },
+    {
+      "trade_date": "2026-03-05",
+      "filename": "earnings_20260305_1414.html",
+      "path_from_screener": "HTML/202603/earnings_20260305_1414.html"
+    },
+    {
+      "trade_date": "2026-03-05",
+      "filename": "earnings_20260305_1428.html",
+      "path_from_screener": "HTML/202603/earnings_20260305_1428.html"
+    },
+    {
+      "trade_date": "2026-03-05",
+      "filename": "earnings_20260305_1444.html",
+      "path_from_screener": "HTML/202603/earnings_20260305_1444.html"
+    },
+    {
+      "trade_date": "2026-03-05",
+      "filename": "earnings_20260305_2227.html",
+      "path_from_screener": "HTML/202603/earnings_20260305_2227.html"
+    },
+    {
+      "trade_date": "2026-03-06",
+      "filename": "earnings_20260306_0401.html",
+      "path_from_screener": "HTML/202603/earnings_20260306_0401.html"
+    },
+    {
+      "trade_date": "2026-03-06",
+      "filename": "earnings_20260306_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260306_1405.html"
+    },
+    {
+      "trade_date": "2026-03-06",
+      "filename": "earnings_20260306_1407.html",
+      "path_from_screener": "HTML/202603/earnings_20260306_1407.html"
+    },
+    {
+      "trade_date": "2026-03-06",
+      "filename": "earnings_20260306_1415.html",
+      "path_from_screener": "HTML/202603/earnings_20260306_1415.html"
+    },
+    {
+      "trade_date": "2026-03-06",
+      "filename": "earnings_20260306_1428.html",
+      "path_from_screener": "HTML/202603/earnings_20260306_1428.html"
+    },
+    {
+      "trade_date": "2026-03-06",
+      "filename": "earnings_20260306_2227.html",
+      "path_from_screener": "HTML/202603/earnings_20260306_2227.html"
+    },
+    {
+      "trade_date": "2026-03-06",
+      "filename": "earnings_20260306_2235.html",
+      "path_from_screener": "HTML/202603/earnings_20260306_2235.html"
+    },
+    {
+      "trade_date": "2026-03-09",
+      "filename": "earnings_20260309_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260309_1405.html"
+    },
+    {
+      "trade_date": "2026-03-09",
+      "filename": "earnings_20260309_1407.html",
+      "path_from_screener": "HTML/202603/earnings_20260309_1407.html"
+    },
+    {
+      "trade_date": "2026-03-09",
+      "filename": "earnings_20260309_1408.html",
+      "path_from_screener": "HTML/202603/earnings_20260309_1408.html"
+    },
+    {
+      "trade_date": "2026-03-09",
+      "filename": "earnings_20260309_1415.html",
+      "path_from_screener": "HTML/202603/earnings_20260309_1415.html"
+    },
+    {
+      "trade_date": "2026-03-09",
+      "filename": "earnings_20260309_1426.html",
+      "path_from_screener": "HTML/202603/earnings_20260309_1426.html"
+    },
+    {
+      "trade_date": "2026-03-09",
+      "filename": "earnings_20260309_2235.html",
+      "path_from_screener": "HTML/202603/earnings_20260309_2235.html"
+    },
+    {
+      "trade_date": "2026-03-10",
+      "filename": "earnings_20260310_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260310_1405.html"
+    },
+    {
+      "trade_date": "2026-03-10",
+      "filename": "earnings_20260310_1408.html",
+      "path_from_screener": "HTML/202603/earnings_20260310_1408.html"
+    },
+    {
+      "trade_date": "2026-03-10",
+      "filename": "earnings_20260310_1409.html",
+      "path_from_screener": "HTML/202603/earnings_20260310_1409.html"
+    },
+    {
+      "trade_date": "2026-03-10",
+      "filename": "earnings_20260310_1426.html",
+      "path_from_screener": "HTML/202603/earnings_20260310_1426.html"
+    },
+    {
+      "trade_date": "2026-03-10",
+      "filename": "earnings_20260310_1429.html",
+      "path_from_screener": "HTML/202603/earnings_20260310_1429.html"
+    },
+    {
+      "trade_date": "2026-03-11",
+      "filename": "earnings_20260311_0332.html",
+      "path_from_screener": "HTML/202603/earnings_20260311_0332.html"
+    },
+    {
+      "trade_date": "2026-03-11",
+      "filename": "earnings_20260311_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260311_1405.html"
+    },
+    {
+      "trade_date": "2026-03-11",
+      "filename": "earnings_20260311_1409.html",
+      "path_from_screener": "HTML/202603/earnings_20260311_1409.html"
+    },
+    {
+      "trade_date": "2026-03-11",
+      "filename": "earnings_20260311_1411.html",
+      "path_from_screener": "HTML/202603/earnings_20260311_1411.html"
+    },
+    {
+      "trade_date": "2026-03-11",
+      "filename": "earnings_20260311_1429.html",
+      "path_from_screener": "HTML/202603/earnings_20260311_1429.html"
+    },
+    {
+      "trade_date": "2026-03-11",
+      "filename": "earnings_20260311_1440.html",
+      "path_from_screener": "HTML/202603/earnings_20260311_1440.html"
+    },
+    {
+      "trade_date": "2026-03-11",
+      "filename": "earnings_20260311_2143.html",
+      "path_from_screener": "HTML/202603/earnings_20260311_2143.html"
+    },
+    {
+      "trade_date": "2026-03-12",
+      "filename": "earnings_20260312_0332.html",
+      "path_from_screener": "HTML/202603/earnings_20260312_0332.html"
+    },
+    {
+      "trade_date": "2026-03-12",
+      "filename": "earnings_20260312_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260312_1405.html"
+    },
+    {
+      "trade_date": "2026-03-12",
+      "filename": "earnings_20260312_1409.html",
+      "path_from_screener": "HTML/202603/earnings_20260312_1409.html"
+    },
+    {
+      "trade_date": "2026-03-12",
+      "filename": "earnings_20260312_1411.html",
+      "path_from_screener": "HTML/202603/earnings_20260312_1411.html"
+    },
+    {
+      "trade_date": "2026-03-12",
+      "filename": "earnings_20260312_1432.html",
+      "path_from_screener": "HTML/202603/earnings_20260312_1432.html"
+    },
+    {
+      "trade_date": "2026-03-12",
+      "filename": "earnings_20260312_1440.html",
+      "path_from_screener": "HTML/202603/earnings_20260312_1440.html"
+    },
+    {
+      "trade_date": "2026-03-12",
+      "filename": "earnings_20260312_2143.html",
+      "path_from_screener": "HTML/202603/earnings_20260312_2143.html"
+    },
+    {
+      "trade_date": "2026-03-12",
+      "filename": "earnings_20260312_2251.html",
+      "path_from_screener": "HTML/202603/earnings_20260312_2251.html"
+    },
+    {
+      "trade_date": "2026-03-13",
+      "filename": "earnings_20260313_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260313_1405.html"
+    },
+    {
+      "trade_date": "2026-03-13",
+      "filename": "earnings_20260313_1409.html",
+      "path_from_screener": "HTML/202603/earnings_20260313_1409.html"
+    },
+    {
+      "trade_date": "2026-03-13",
+      "filename": "earnings_20260313_1432.html",
+      "path_from_screener": "HTML/202603/earnings_20260313_1432.html"
+    },
+    {
+      "trade_date": "2026-03-13",
+      "filename": "earnings_20260313_2251.html",
+      "path_from_screener": "HTML/202603/earnings_20260313_2251.html"
+    },
+    {
+      "trade_date": "2026-03-16",
+      "filename": "earnings_20260316_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260316_1405.html"
+    },
+    {
+      "trade_date": "2026-03-16",
+      "filename": "earnings_20260316_1409.html",
+      "path_from_screener": "HTML/202603/earnings_20260316_1409.html"
+    },
+    {
+      "trade_date": "2026-03-16",
+      "filename": "earnings_20260316_1423.html",
+      "path_from_screener": "HTML/202603/earnings_20260316_1423.html"
+    },
+    {
+      "trade_date": "2026-03-16",
+      "filename": "earnings_20260316_2052.html",
+      "path_from_screener": "HTML/202603/earnings_20260316_2052.html"
+    },
+    {
+      "trade_date": "2026-03-16",
+      "filename": "earnings_20260316_2320.html",
+      "path_from_screener": "HTML/202603/earnings_20260316_2320.html"
+    },
+    {
+      "trade_date": "2026-03-17",
+      "filename": "earnings_20260317_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260317_1405.html"
+    },
+    {
+      "trade_date": "2026-03-17",
+      "filename": "earnings_20260317_1409.html",
+      "path_from_screener": "HTML/202603/earnings_20260317_1409.html"
+    },
+    {
+      "trade_date": "2026-03-17",
+      "filename": "earnings_20260317_1410.html",
+      "path_from_screener": "HTML/202603/earnings_20260317_1410.html"
+    },
+    {
+      "trade_date": "2026-03-17",
+      "filename": "earnings_20260317_1418.html",
+      "path_from_screener": "HTML/202603/earnings_20260317_1418.html"
+    },
+    {
+      "trade_date": "2026-03-17",
+      "filename": "earnings_20260317_1423.html",
+      "path_from_screener": "HTML/202603/earnings_20260317_1423.html"
+    },
+    {
+      "trade_date": "2026-03-17",
+      "filename": "earnings_20260317_2052.html",
+      "path_from_screener": "HTML/202603/earnings_20260317_2052.html"
+    },
+    {
+      "trade_date": "2026-03-17",
+      "filename": "earnings_20260317_2235.html",
+      "path_from_screener": "HTML/202603/earnings_20260317_2235.html"
+    },
+    {
+      "trade_date": "2026-03-17",
+      "filename": "earnings_20260317_2320.html",
+      "path_from_screener": "HTML/202603/earnings_20260317_2320.html"
+    },
+    {
+      "trade_date": "2026-03-18",
+      "filename": "earnings_20260318_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260318_1405.html"
+    },
+    {
+      "trade_date": "2026-03-18",
+      "filename": "earnings_20260318_1410.html",
+      "path_from_screener": "HTML/202603/earnings_20260318_1410.html"
+    },
+    {
+      "trade_date": "2026-03-18",
+      "filename": "earnings_20260318_1411.html",
+      "path_from_screener": "HTML/202603/earnings_20260318_1411.html"
+    },
+    {
+      "trade_date": "2026-03-18",
+      "filename": "earnings_20260318_1418.html",
+      "path_from_screener": "HTML/202603/earnings_20260318_1418.html"
+    },
+    {
+      "trade_date": "2026-03-18",
+      "filename": "earnings_20260318_1429.html",
+      "path_from_screener": "HTML/202603/earnings_20260318_1429.html"
+    },
+    {
+      "trade_date": "2026-03-18",
+      "filename": "earnings_20260318_2218.html",
+      "path_from_screener": "HTML/202603/earnings_20260318_2218.html"
+    },
+    {
+      "trade_date": "2026-03-18",
+      "filename": "earnings_20260318_2235.html",
+      "path_from_screener": "HTML/202603/earnings_20260318_2235.html"
+    },
+    {
+      "trade_date": "2026-03-19",
+      "filename": "earnings_20260319_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260319_1405.html"
+    },
+    {
+      "trade_date": "2026-03-19",
+      "filename": "earnings_20260319_1411.html",
+      "path_from_screener": "HTML/202603/earnings_20260319_1411.html"
+    },
+    {
+      "trade_date": "2026-03-19",
+      "filename": "earnings_20260319_1426.html",
+      "path_from_screener": "HTML/202603/earnings_20260319_1426.html"
+    },
+    {
+      "trade_date": "2026-03-19",
+      "filename": "earnings_20260319_1429.html",
+      "path_from_screener": "HTML/202603/earnings_20260319_1429.html"
+    },
+    {
+      "trade_date": "2026-03-19",
+      "filename": "earnings_20260319_2213.html",
+      "path_from_screener": "HTML/202603/earnings_20260319_2213.html"
+    },
+    {
+      "trade_date": "2026-03-19",
+      "filename": "earnings_20260319_2218.html",
+      "path_from_screener": "HTML/202603/earnings_20260319_2218.html"
+    },
+    {
+      "trade_date": "2026-03-20",
+      "filename": "earnings_20260320_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260320_1405.html"
+    },
+    {
+      "trade_date": "2026-03-20",
+      "filename": "earnings_20260320_1407.html",
+      "path_from_screener": "HTML/202603/earnings_20260320_1407.html"
+    },
+    {
+      "trade_date": "2026-03-20",
+      "filename": "earnings_20260320_1411.html",
+      "path_from_screener": "HTML/202603/earnings_20260320_1411.html"
+    },
+    {
+      "trade_date": "2026-03-20",
+      "filename": "earnings_20260320_1412.html",
+      "path_from_screener": "HTML/202603/earnings_20260320_1412.html"
+    },
+    {
+      "trade_date": "2026-03-20",
+      "filename": "earnings_20260320_1426.html",
+      "path_from_screener": "HTML/202603/earnings_20260320_1426.html"
+    },
+    {
+      "trade_date": "2026-03-20",
+      "filename": "earnings_20260320_2213.html",
+      "path_from_screener": "HTML/202603/earnings_20260320_2213.html"
+    },
+    {
+      "trade_date": "2026-03-20",
+      "filename": "earnings_20260320_2258.html",
+      "path_from_screener": "HTML/202603/earnings_20260320_2258.html"
+    },
+    {
+      "trade_date": "2026-03-23",
+      "filename": "earnings_20260323_0500.html",
+      "path_from_screener": "HTML/202603/earnings_20260323_0500.html"
+    },
+    {
+      "trade_date": "2026-03-23",
+      "filename": "earnings_20260323_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260323_1405.html"
+    },
+    {
+      "trade_date": "2026-03-23",
+      "filename": "earnings_20260323_1407.html",
+      "path_from_screener": "HTML/202603/earnings_20260323_1407.html"
+    },
+    {
+      "trade_date": "2026-03-23",
+      "filename": "earnings_20260323_1408.html",
+      "path_from_screener": "HTML/202603/earnings_20260323_1408.html"
+    },
+    {
+      "trade_date": "2026-03-23",
+      "filename": "earnings_20260323_1412.html",
+      "path_from_screener": "HTML/202603/earnings_20260323_1412.html"
+    },
+    {
+      "trade_date": "2026-03-23",
+      "filename": "earnings_20260323_1417.html",
+      "path_from_screener": "HTML/202603/earnings_20260323_1417.html"
+    },
+    {
+      "trade_date": "2026-03-23",
+      "filename": "earnings_20260323_2258.html",
+      "path_from_screener": "HTML/202603/earnings_20260323_2258.html"
+    },
+    {
+      "trade_date": "2026-03-24",
+      "filename": "earnings_20260324_0500.html",
+      "path_from_screener": "HTML/202603/earnings_20260324_0500.html"
+    },
+    {
+      "trade_date": "2026-03-24",
+      "filename": "earnings_20260324_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260324_1405.html"
+    },
+    {
+      "trade_date": "2026-03-24",
+      "filename": "earnings_20260324_1408.html",
+      "path_from_screener": "HTML/202603/earnings_20260324_1408.html"
+    },
+    {
+      "trade_date": "2026-03-24",
+      "filename": "earnings_20260324_1409.html",
+      "path_from_screener": "HTML/202603/earnings_20260324_1409.html"
+    },
+    {
+      "trade_date": "2026-03-24",
+      "filename": "earnings_20260324_1417.html",
+      "path_from_screener": "HTML/202603/earnings_20260324_1417.html"
+    },
+    {
+      "trade_date": "2026-03-24",
+      "filename": "earnings_20260324_1423.html",
+      "path_from_screener": "HTML/202603/earnings_20260324_1423.html"
+    },
+    {
+      "trade_date": "2026-03-24",
+      "filename": "earnings_20260324_2307.html",
+      "path_from_screener": "HTML/202603/earnings_20260324_2307.html"
+    },
+    {
+      "trade_date": "2026-03-25",
+      "filename": "earnings_20260325_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260325_1405.html"
+    },
+    {
+      "trade_date": "2026-03-25",
+      "filename": "earnings_20260325_1409.html",
+      "path_from_screener": "HTML/202603/earnings_20260325_1409.html"
+    },
+    {
+      "trade_date": "2026-03-25",
+      "filename": "earnings_20260325_1410.html",
+      "path_from_screener": "HTML/202603/earnings_20260325_1410.html"
+    },
+    {
+      "trade_date": "2026-03-25",
+      "filename": "earnings_20260325_1423.html",
+      "path_from_screener": "HTML/202603/earnings_20260325_1423.html"
+    },
+    {
+      "trade_date": "2026-03-25",
+      "filename": "earnings_20260325_2307.html",
+      "path_from_screener": "HTML/202603/earnings_20260325_2307.html"
+    },
+    {
+      "trade_date": "2026-03-26",
+      "filename": "earnings_20260326_0913.html",
+      "path_from_screener": "HTML/202603/earnings_20260326_0913.html"
+    },
+    {
+      "trade_date": "2026-03-26",
+      "filename": "earnings_20260326_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260326_1405.html"
+    },
+    {
+      "trade_date": "2026-03-26",
+      "filename": "earnings_20260326_1406.html",
+      "path_from_screener": "HTML/202603/earnings_20260326_1406.html"
+    },
+    {
+      "trade_date": "2026-03-26",
+      "filename": "earnings_20260326_1410.html",
+      "path_from_screener": "HTML/202603/earnings_20260326_1410.html"
+    },
+    {
+      "trade_date": "2026-03-26",
+      "filename": "earnings_20260326_1424.html",
+      "path_from_screener": "HTML/202603/earnings_20260326_1424.html"
+    },
+    {
+      "trade_date": "2026-03-27",
+      "filename": "earnings_20260327_0913.html",
+      "path_from_screener": "HTML/202603/earnings_20260327_0913.html"
+    },
+    {
+      "trade_date": "2026-03-27",
+      "filename": "earnings_20260327_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260327_1405.html"
+    },
+    {
+      "trade_date": "2026-03-27",
+      "filename": "earnings_20260327_1406.html",
+      "path_from_screener": "HTML/202603/earnings_20260327_1406.html"
+    },
+    {
+      "trade_date": "2026-03-27",
+      "filename": "earnings_20260327_1424.html",
+      "path_from_screener": "HTML/202603/earnings_20260327_1424.html"
+    },
+    {
+      "trade_date": "2026-03-30",
+      "filename": "earnings_20260330_0809.html",
+      "path_from_screener": "HTML/202603/earnings_20260330_0809.html"
+    },
+    {
+      "trade_date": "2026-03-30",
+      "filename": "earnings_20260330_1306.html",
+      "path_from_screener": "HTML/202603/earnings_20260330_1306.html"
+    },
+    {
+      "trade_date": "2026-03-30",
+      "filename": "earnings_20260330_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260330_1405.html"
+    },
+    {
+      "trade_date": "2026-03-30",
+      "filename": "earnings_20260330_1407.html",
+      "path_from_screener": "HTML/202603/earnings_20260330_1407.html"
+    },
+    {
+      "trade_date": "2026-03-30",
+      "filename": "earnings_20260330_1427.html",
+      "path_from_screener": "HTML/202603/earnings_20260330_1427.html"
+    },
+    {
+      "trade_date": "2026-03-31",
+      "filename": "earnings_20260331_0809.html",
+      "path_from_screener": "HTML/202603/earnings_20260331_0809.html"
+    },
+    {
+      "trade_date": "2026-03-31",
+      "filename": "earnings_20260331_1306.html",
+      "path_from_screener": "HTML/202603/earnings_20260331_1306.html"
+    },
+    {
+      "trade_date": "2026-03-31",
+      "filename": "earnings_20260331_1405.html",
+      "path_from_screener": "HTML/202603/earnings_20260331_1405.html"
+    },
+    {
+      "trade_date": "2026-03-31",
+      "filename": "earnings_20260331_1407.html",
+      "path_from_screener": "HTML/202603/earnings_20260331_1407.html"
+    },
+    {
+      "trade_date": "2026-03-31",
+      "filename": "earnings_20260331_1408.html",
+      "path_from_screener": "HTML/202603/earnings_20260331_1408.html"
+    },
+    {
+      "trade_date": "2026-03-31",
+      "filename": "earnings_20260331_1419.html",
+      "path_from_screener": "HTML/202603/earnings_20260331_1419.html"
+    },
+    {
+      "trade_date": "2026-03-31",
+      "filename": "earnings_20260331_1427.html",
+      "path_from_screener": "HTML/202603/earnings_20260331_1427.html"
+    },
+    {
+      "trade_date": "2026-04-01",
+      "filename": "earnings_20260401_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260401_1405.html"
+    },
+    {
+      "trade_date": "2026-04-01",
+      "filename": "earnings_20260401_1407.html",
+      "path_from_screener": "HTML/202604/earnings_20260401_1407.html"
+    },
+    {
+      "trade_date": "2026-04-01",
+      "filename": "earnings_20260401_1408.html",
+      "path_from_screener": "HTML/202604/earnings_20260401_1408.html"
+    },
+    {
+      "trade_date": "2026-04-01",
+      "filename": "earnings_20260401_1411.html",
+      "path_from_screener": "HTML/202604/earnings_20260401_1411.html"
+    },
+    {
+      "trade_date": "2026-04-01",
+      "filename": "earnings_20260401_1419.html",
+      "path_from_screener": "HTML/202604/earnings_20260401_1419.html"
+    },
+    {
+      "trade_date": "2026-04-02",
+      "filename": "earnings_20260402_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260402_1405.html"
+    },
+    {
+      "trade_date": "2026-04-02",
+      "filename": "earnings_20260402_1407.html",
+      "path_from_screener": "HTML/202604/earnings_20260402_1407.html"
+    },
+    {
+      "trade_date": "2026-04-02",
+      "filename": "earnings_20260402_1411.html",
+      "path_from_screener": "HTML/202604/earnings_20260402_1411.html"
+    },
+    {
+      "trade_date": "2026-04-02",
+      "filename": "earnings_20260402_1553.html",
+      "path_from_screener": "HTML/202604/earnings_20260402_1553.html"
+    },
+    {
+      "trade_date": "2026-04-02",
+      "filename": "earnings_20260402_1900.html",
+      "path_from_screener": "HTML/202604/earnings_20260402_1900.html"
+    },
+    {
+      "trade_date": "2026-04-07",
+      "filename": "earnings_20260407_1033.html",
+      "path_from_screener": "HTML/202604/earnings_20260407_1033.html"
+    },
+    {
+      "trade_date": "2026-04-07",
+      "filename": "earnings_20260407_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260407_1405.html"
+    },
+    {
+      "trade_date": "2026-04-07",
+      "filename": "earnings_20260407_1406.html",
+      "path_from_screener": "HTML/202604/earnings_20260407_1406.html"
+    },
+    {
+      "trade_date": "2026-04-07",
+      "filename": "earnings_20260407_1408.html",
+      "path_from_screener": "HTML/202604/earnings_20260407_1408.html"
+    },
+    {
+      "trade_date": "2026-04-07",
+      "filename": "earnings_20260407_1412.html",
+      "path_from_screener": "HTML/202604/earnings_20260407_1412.html"
+    },
+    {
+      "trade_date": "2026-04-07",
+      "filename": "earnings_20260407_1801.html",
+      "path_from_screener": "HTML/202604/earnings_20260407_1801.html"
+    },
+    {
+      "trade_date": "2026-04-07",
+      "filename": "earnings_20260407_1807.html",
+      "path_from_screener": "HTML/202604/earnings_20260407_1807.html"
+    },
+    {
+      "trade_date": "2026-04-08",
+      "filename": "earnings_20260408_0312.html",
+      "path_from_screener": "HTML/202604/earnings_20260408_0312.html"
+    },
+    {
+      "trade_date": "2026-04-08",
+      "filename": "earnings_20260408_1033.html",
+      "path_from_screener": "HTML/202604/earnings_20260408_1033.html"
+    },
+    {
+      "trade_date": "2026-04-08",
+      "filename": "earnings_20260408_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260408_1405.html"
+    },
+    {
+      "trade_date": "2026-04-08",
+      "filename": "earnings_20260408_1407.html",
+      "path_from_screener": "HTML/202604/earnings_20260408_1407.html"
+    },
+    {
+      "trade_date": "2026-04-08",
+      "filename": "earnings_20260408_1408.html",
+      "path_from_screener": "HTML/202604/earnings_20260408_1408.html"
+    },
+    {
+      "trade_date": "2026-04-08",
+      "filename": "earnings_20260408_1412.html",
+      "path_from_screener": "HTML/202604/earnings_20260408_1412.html"
+    },
+    {
+      "trade_date": "2026-04-08",
+      "filename": "earnings_20260408_1801.html",
+      "path_from_screener": "HTML/202604/earnings_20260408_1801.html"
+    },
+    {
+      "trade_date": "2026-04-08",
+      "filename": "earnings_20260408_1807.html",
+      "path_from_screener": "HTML/202604/earnings_20260408_1807.html"
+    },
+    {
+      "trade_date": "2026-04-09",
+      "filename": "earnings_20260409_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260409_1405.html"
+    },
+    {
+      "trade_date": "2026-04-09",
+      "filename": "earnings_20260409_1407.html",
+      "path_from_screener": "HTML/202604/earnings_20260409_1407.html"
+    },
+    {
+      "trade_date": "2026-04-09",
+      "filename": "earnings_20260409_1408.html",
+      "path_from_screener": "HTML/202604/earnings_20260409_1408.html"
+    },
+    {
+      "trade_date": "2026-04-09",
+      "filename": "earnings_20260409_1801.html",
+      "path_from_screener": "HTML/202604/earnings_20260409_1801.html"
+    },
+    {
+      "trade_date": "2026-04-10",
+      "filename": "earnings_20260410_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260410_1405.html"
+    },
+    {
+      "trade_date": "2026-04-10",
+      "filename": "earnings_20260410_1408.html",
+      "path_from_screener": "HTML/202604/earnings_20260410_1408.html"
+    },
+    {
+      "trade_date": "2026-04-10",
+      "filename": "earnings_20260410_1800.html",
+      "path_from_screener": "HTML/202604/earnings_20260410_1800.html"
+    },
+    {
+      "trade_date": "2026-04-10",
+      "filename": "earnings_20260410_1801.html",
+      "path_from_screener": "HTML/202604/earnings_20260410_1801.html"
+    },
+    {
+      "trade_date": "2026-04-13",
+      "filename": "earnings_20260413_0059.html",
+      "path_from_screener": "HTML/202604/earnings_20260413_0059.html"
+    },
+    {
+      "trade_date": "2026-04-13",
+      "filename": "earnings_20260413_0105.html",
+      "path_from_screener": "HTML/202604/earnings_20260413_0105.html"
+    },
+    {
+      "trade_date": "2026-04-13",
+      "filename": "earnings_20260413_0112.html",
+      "path_from_screener": "HTML/202604/earnings_20260413_0112.html"
+    },
+    {
+      "trade_date": "2026-04-13",
+      "filename": "earnings_20260413_0119.html",
+      "path_from_screener": "HTML/202604/earnings_20260413_0119.html"
+    },
+    {
+      "trade_date": "2026-04-13",
+      "filename": "earnings_20260413_0210.html",
+      "path_from_screener": "HTML/202604/earnings_20260413_0210.html"
+    },
+    {
+      "trade_date": "2026-04-13",
+      "filename": "earnings_20260413_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260413_1405.html"
+    },
+    {
+      "trade_date": "2026-04-13",
+      "filename": "earnings_20260413_1800.html",
+      "path_from_screener": "HTML/202604/earnings_20260413_1800.html"
+    },
+    {
+      "trade_date": "2026-04-14",
+      "filename": "earnings_20260414_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260414_1405.html"
+    },
+    {
+      "trade_date": "2026-04-14",
+      "filename": "earnings_20260414_1800.html",
+      "path_from_screener": "HTML/202604/earnings_20260414_1800.html"
+    },
+    {
+      "trade_date": "2026-04-15",
+      "filename": "earnings_20260415_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260415_1405.html"
+    },
+    {
+      "trade_date": "2026-04-15",
+      "filename": "earnings_20260415_1406.html",
+      "path_from_screener": "HTML/202604/earnings_20260415_1406.html"
+    },
+    {
+      "trade_date": "2026-04-15",
+      "filename": "earnings_20260415_1800.html",
+      "path_from_screener": "HTML/202604/earnings_20260415_1800.html"
+    },
+    {
+      "trade_date": "2026-04-16",
+      "filename": "earnings_20260416_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260416_1405.html"
+    },
+    {
+      "trade_date": "2026-04-16",
+      "filename": "earnings_20260416_1406.html",
+      "path_from_screener": "HTML/202604/earnings_20260416_1406.html"
+    },
+    {
+      "trade_date": "2026-04-16",
+      "filename": "earnings_20260416_1800.html",
+      "path_from_screener": "HTML/202604/earnings_20260416_1800.html"
+    },
+    {
+      "trade_date": "2026-04-17",
+      "filename": "earnings_20260417_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260417_1405.html"
+    },
+    {
+      "trade_date": "2026-04-17",
+      "filename": "earnings_20260417_1406.html",
+      "path_from_screener": "HTML/202604/earnings_20260417_1406.html"
+    },
+    {
+      "trade_date": "2026-04-17",
+      "filename": "earnings_20260417_1800.html",
+      "path_from_screener": "HTML/202604/earnings_20260417_1800.html"
+    },
+    {
+      "trade_date": "2026-04-20",
+      "filename": "earnings_20260420_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260420_1405.html"
+    },
+    {
+      "trade_date": "2026-04-20",
+      "filename": "earnings_20260420_1406.html",
+      "path_from_screener": "HTML/202604/earnings_20260420_1406.html"
+    },
+    {
+      "trade_date": "2026-04-20",
+      "filename": "earnings_20260420_1800.html",
+      "path_from_screener": "HTML/202604/earnings_20260420_1800.html"
+    },
+    {
+      "trade_date": "2026-04-20",
+      "filename": "earnings_20260420_1801.html",
+      "path_from_screener": "HTML/202604/earnings_20260420_1801.html"
+    },
+    {
+      "trade_date": "2026-04-21",
+      "filename": "earnings_20260421_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260421_1405.html"
+    },
+    {
+      "trade_date": "2026-04-21",
+      "filename": "earnings_20260421_1406.html",
+      "path_from_screener": "HTML/202604/earnings_20260421_1406.html"
+    },
+    {
+      "trade_date": "2026-04-21",
+      "filename": "earnings_20260421_1407.html",
+      "path_from_screener": "HTML/202604/earnings_20260421_1407.html"
+    },
+    {
+      "trade_date": "2026-04-21",
+      "filename": "earnings_20260421_1409.html",
+      "path_from_screener": "HTML/202604/earnings_20260421_1409.html"
+    },
+    {
+      "trade_date": "2026-04-21",
+      "filename": "earnings_20260421_1801.html",
+      "path_from_screener": "HTML/202604/earnings_20260421_1801.html"
+    },
+    {
+      "trade_date": "2026-04-21",
+      "filename": "earnings_20260421_1804.html",
+      "path_from_screener": "HTML/202604/earnings_20260421_1804.html"
+    },
+    {
+      "trade_date": "2026-04-22",
+      "filename": "earnings_20260422_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260422_1405.html"
+    },
+    {
+      "trade_date": "2026-04-22",
+      "filename": "earnings_20260422_1407.html",
+      "path_from_screener": "HTML/202604/earnings_20260422_1407.html"
+    },
+    {
+      "trade_date": "2026-04-22",
+      "filename": "earnings_20260422_1409.html",
+      "path_from_screener": "HTML/202604/earnings_20260422_1409.html"
+    },
+    {
+      "trade_date": "2026-04-22",
+      "filename": "earnings_20260422_1410.html",
+      "path_from_screener": "HTML/202604/earnings_20260422_1410.html"
+    },
+    {
+      "trade_date": "2026-04-22",
+      "filename": "earnings_20260422_1804.html",
+      "path_from_screener": "HTML/202604/earnings_20260422_1804.html"
+    },
+    {
+      "trade_date": "2026-04-23",
+      "filename": "earnings_20260423_1405.html",
+      "path_from_screener": "HTML/202604/earnings_20260423_1405.html"
+    },
+    {
+      "trade_date": "2026-04-23",
+      "filename": "earnings_20260423_1407.html",
+      "path_from_screener": "HTML/202604/earnings_20260423_1407.html"
+    },
+    {
+      "trade_date": "2026-04-23",
+      "filename": "earnings_20260423_1410.html",
+      "path_from_screener": "HTML/202604/earnings_20260423_1410.html"
+    },
+    {
+      "trade_date": "2026-04-23",
+      "filename": "earnings_20260423_1804.html",
+      "path_from_screener": "HTML/202604/earnings_20260423_1804.html"
+    }
+  ]
+}
